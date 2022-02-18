@@ -6,12 +6,13 @@
   <div class="rounded-lg h-64 overflow-hidden">
     <img alt="content" class="object-contain object-center h-full w-full" src={item.image}>
   </div>
-  <h2 class="text-xl font-large title-font text-gray-900 mt-5">{item.header}</h2>
-  <p class="text-base leading-relaxed mt-2">Model: {item.id}</p>
+  <h2 class="text-xl font-large title-font text-gray-900 mt-5 text-center">{item.header}</h2>
+  <p class="text-base leading-relaxed mt-2 italic text-center">Model: {item.id}</p>
 
   <ul class="list-none">
-    {#each item.bulletPoints as bulletPoint}
-      <li>{bulletPoint}</li>
+    {#each {length: 3}  as _ , bulletPoint}
+      <li>{item.bulletPoints[bulletPoint]}</li>
+      <!-- <li>{bulletPoint}</li> -->
     {/each}
   </ul>
 

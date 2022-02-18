@@ -44,16 +44,16 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 				<div class="container">
 						<div class="grid grid-cols-4 gap-4">
 								<div class="flex">
-										<img class="home-icon-image" alt="microsoft" src="static/images/home/logo1.png">
+										<img class="home-icon-image m-auto w-9/12" alt="microsoft" src="/images/Lifestyle/logo1.png">
 								</div>
 								<div class="flex">
-										<img class="home-icon-image" alt="windows 11" src="static/images/home/logo2.png">
+										<img class="home-icon-image m-auto w-9/12" alt="windows 11" src="/images/Lifestyle/logo2.png">
 								</div>
 								<div class="flex">
-										<img class="home-icon-image" alt="miscrosoft 365" src="static/images/home/logo3.png">
+										<img class="home-icon-image m-auto w-9/12" alt="miscrosoft 365" src="/images/Lifestyle/logo3.png">
 								</div>
 								<div class="flex">
-										<img class="home-icon-image" alt="gateway laptops" src="static/images/home/logo4.png">
+										<img class="home-icon-image m-auto w-9/12" alt="gateway laptops" src="/images/Lifestyle/logo4.png">
 								</div>
 						</div>
 				</div>
