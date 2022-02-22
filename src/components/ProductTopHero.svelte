@@ -1,5 +1,7 @@
 <script>
   export let productData
+
+  import walmartIcon from '/images/Icons/walmart.png'
 </script>
 
 
@@ -14,7 +16,7 @@
         <div class="flex-grow">
           <h2 class="text-gray-900 text-4xl title-font font-medium mb-3">{productData.header}</h2>
           <p class="leading-relaxed text-base italic">Model: {productData.id}</p>
-          <p class="leading-relaxed text-base my-5">{productData.productPage.description}</p>
+          <p class="leading-relaxed text-base my-5">{productData.description}</p>
           <ul class="my-5">
             {#each productData.bulletPoints as bullet}
               <li class="list-disc mx-5 italic">{bullet}</li>
@@ -33,9 +35,16 @@
         </div>
       </div>
 
-      <div class="flex flex-col mb-10 lg:items-start items-center">
-        <p class="leading-relaxed text-base">Place for exclusive walmart banner</p>
+      <div class="flex mb-10 lg:center items-center">
+        <p class="leading-relaxed text-xl w-1/2 exclusive-at-walmart">Available exclusively at:</p>
+        <img class="w-1/3" src={walmartIcon} alt="Exclusive At Walmart">
       </div>
     </div>
   </div>
 </section>
+
+<style>
+  .exclusive-at-walmart {
+    color: #0971ce;
+  }
+</style>
