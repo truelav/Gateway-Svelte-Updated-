@@ -1,6 +1,6 @@
 <script>
   export let productData
-
+  import ProductRatingSummary from './ProductRatingSummary.svelte';
   import walmartIcon from '/images/Icons/walmart.png'
 </script>
 
@@ -16,6 +16,7 @@
         <div class="flex-grow">
           <h2 class="text-gray-900 text-4xl title-font font-medium mb-3">{productData.header}</h2>
           <p class="leading-relaxed text-base italic">Model: {productData.id}</p>
+          <ProductRatingSummary />  
           <p class="leading-relaxed text-base my-5">{productData.description}</p>
           <ul class="my-5">
             {#each productData.bulletPoints as bullet}

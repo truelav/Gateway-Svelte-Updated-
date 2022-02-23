@@ -5,10 +5,12 @@
 
   import ProductTopHero from '../components/ProductTopHero.svelte'
   import ProductDimensions from '../components/ProductDimensions.svelte'
-  import ProductLifestyle from '../components/ProductLifestyle.svelte'; 
+  import ProductLifestyle from '../components/ProductLifestyle.svelte'
   import LifestyleGallery from '../components/LifestyleGallery.svelte'
   import ProductSpecs from '../components/ProductSpecs.svelte'
-  import ProductPorts from '../components/ProductPorts.svelte';
+  import ProductPorts from '../components/ProductPorts.svelte'
+
+  import ProductRatingSummary from '../components/ProductRatingSummary.svelte';
 
   export let params;
 
@@ -24,15 +26,14 @@
 
 <div class="backgroundSpots">
 
-  <!-- Features Section -->
-  <ProductSpecs {productData}/>
-
   <ProductLifestyle {productData}/>
+  
+  <ProductSpecs {productData}/>
   
   <ProductPorts {productData} />
   
   <LifestyleGallery />
-  
+
 </div>
 
 <style>
