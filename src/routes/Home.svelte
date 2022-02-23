@@ -60,6 +60,10 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 		</div>
 	</section>
 
+	<div class="home-3d-section">
+		<iframe src='https://my.spline.design/glasscirclescopy-0161324e9e70ffe758f7dd995ba8e868/' frameborder='0' width='100%' height='100%' title="3d-Background"></iframe>
+	</div>
+
 	<!-- Series Sections -->
 
 	<section class="text-gray-600 body-font">
@@ -220,7 +224,7 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 				<p class="leading-relaxed text-base">Taxidermy bushwick celiac master cleanse microdosing seitan. Fashion axe four dollar toast truffaut, direct trade kombucha brunch williamsburg keffiyeh gastropub tousled squid meh taiyaki drinking vinegar tacos.</p>
 				<div class="flex md:mt-4 mt-6">
 					<button class="inline-flex text-white bg-indigo-500 border-0 py-1 px-4 focus:outline-none hover:bg-indigo-600 rounded">Button</button>
-					<a class="text-indigo-500 inline-flex items-center ml-4">Learn More
+					<a class="text-indigo-500 inline-flex items-center ml-4" href="/">Learn More
 						<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
 							<path d="M5 12h14M12 5l7 7-7 7"></path>
 						</svg>
@@ -232,3 +236,8 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 		
 
 
+<style>
+	.home-3d-section{
+		height: 80vh;
+	}
+</style>
