@@ -47,6 +47,9 @@
       }
     },
 
+
+
+
     {
       "id": "GGNC-51518",
       "header": "15.6” FHD Gaming Notebook",
@@ -94,84 +97,10 @@
       }
     },
 
-    {
-      "id": "GWCC71416",
-      "header": "14.1” 2-in-1 Elite Notebook",
-      "description": "The 14.1” FHD 2-in-1 Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i7-1165G7 Processor and has 8 GB memory RAM. With a sleek and metallic design.", 
-      "image": "images/AllProducts/GWCC71416.png" ,
-      "bulletPoints": [
-        "Windows 11 Home",
-        "Intel® Core™ i7-1165G7 Processor, 1.2GHz base, Up to 4.7GHz",
-        "14.1” Touchscreen IPS FHD Display, (1920 x 1080)",
-        "THX Spatial Audio",
-        "256 GB Solid State Drive",
-        "8 GB Memory (RAM)",
-        "Up to 10 hours of battery life"
-      ],
-      "buyNowLink": "https://www.walmart.com/ip/Gateway-15-6-FHD-Creator-Notebook-120Hz-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-512GB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/199570916",
-      "category": "2-in-1",
 
-      "productPage": {
-        "imageTopSource": {
-          "src": "../images/GWCC71416/product-top-background-img.jpg",
-          "alt": "17.3” FHD Gaming Notebook"
-        },
-        "images": {
-          "ports": {
-            "port1": "../images/GGNC71719/ports1.png",
-            "port2": "../images/GGNC71719/ports2.png",
-            "alt": "Gateway Laptop Ports | USB | Type C"
-          },
-          "colors": {
-            "image-1": "",
-            "image-2": ""
-          },
-          "lifestyle": {
-            "image-1": "../images/GGNC71719/ports1.png"
-          }
-        }
-      }
-    },
-    {
-      "id": "GWCC51416",
-      "header": "14.1” 2-in-1 Elite Notebook",
-      "description": "The 14.1” FHD 2-in-1 Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 10th Gen Intel® Core™ i5-1035G1 Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 256 GB Solid State Drive.", 
-      "image": "images/AllProducts/GWCC51416.png" ,
-      "bulletPoints": [
-        "Windows 11 Home",
-        "Intel® Core™ i5-1035G1 Processor, 1.0GHz base, Up to 3.6GHz",
-        "14.1” Touchscreen IPS FHD Display, (1920 x 1080)",
-        "THX Spatial Audio",
-        "256 GB Solid State Drive",
-        "8 GB Memory (RAM)",
-        "Up to 10 hours of battery life"
-      ],
-      "buyNowLink": "https://www.walmart.com/ip/Gateway-15-6-FHD-Creator-Notebook-120Hz-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-512GB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/199570916",
-      "category": "2-in-1",
 
-      "productPage": {
-        "imageTopSource": {
-          "src": "../images/GWCC51416/product-top-background-img.jpg",
-          "alt": "17.3” FHD Gaming Notebook"
-        },
-        "images": {
-          "ports": {
-            "port1": "../images/GGNC71719/ports1.png",
-            "port2": "../images/GGNC71719/ports2.png",
-            "alt": "Gateway Laptop Ports | USB | Type C"
-          },
-          "colors": {
-            "image-1": "",
-            "image-2": ""
-          },
-          "lifestyle": {
-            "image-1": "../images/GGNC71719/ports1.png"
-          }
-        }
-      }
-    },
     {
-      "id": "GGNC51518",
+      "id": "GGNC-51518",
       "header": "15.6” FHD Gaming Notebook",
       "description": "The 15.6” FHD Gaming Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i5-11400H Processor and has 16 GB memory RAM.", 
       "image": "images/AllProducts/GGNC51518.png" ,
@@ -188,6 +117,18 @@
       "category": "gaming",
 
       "productPage": {
+        "specs": {
+          "os": "Windows 11 Home",
+          "processor": "Intel® Core™ i7-11800H Processor, Up to 4.60 GHz",
+          "display": "17.3” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
+          "hardDrive": "1TB PCI-e Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "16 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.1 x 2 USB 2.0 x 1",
+          "speakers": "THX™ Spacial Audio"
+        },
         "imageTopSource": {
           "src": "../images/GGNC71719/product-top-background-img.jpg",
           "alt": "17.3” FHD Gaming Notebook"
@@ -198,53 +139,14 @@
             "port2": "../images/GGNC71719/ports2.png",
             "alt": "Gateway Laptop Ports | USB | Type C"
           },
-          "colors": {
-            "image-1": "",
-            "image-2": ""
-          },
           "lifestyle": {
-            "image-1": "../images/GGNC71719/ports1.png"
-          }
-        }
-      }
-    },
-    {
-      "id": "GGNC51518",
-      "header": "15.6” FHD Gaming Notebook",
-      "description": "The 15.6” FHD Gaming Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i5-11400H Processor and has 16 GB memory RAM.", 
-      "image": "images/AllProducts/GGNC51518.png" ,
-      "bulletPoints": [
-        "Windows 11 Home",
-        "Intel® Core™ i5-11400H Processor, Up to 4.50 GHz",
-        "15.6” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
-        "NVIDIA GeForce RTX 3050, 4GB vRAM",
-        "Includes 1-month Xbox Game Pass for PC*",
-        "512 GB PCI-e Solid State Drive",
-        "16 GB Dual Channel Memory (RAM)"
-      ],
-      "buyNowLink": "https://www.walmart.com/ip/Gateway-15-6-FHD-Creator-Notebook-120Hz-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-512GB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/199570916",
-      "category": "gaming",
-
-      "productPage": {
-        "imageTopSource": {
-          "src": "../images/GGNC71719/product-top-background-img.jpg",
-          "alt": "17.3” FHD Gaming Notebook"
-        },
-        "images": {
-          "ports": {
-            "port1": "../images/GGNC71719/ports1.png",
-            "port2": "../images/GGNC71719/ports2.png",
-            "alt": "Gateway Laptop Ports | USB | Type C"
-          },
-          "colors": {
-            "image-1": "",
-            "image-2": ""
-          },
-          "lifestyle": {
-            "image-1": "../images/GGNC71719/ports1.png"
+            "image": "../images/GGNC71719/lifestyle.png"
           }
         }
       }
     }
+
+
+    
   ]
 }
