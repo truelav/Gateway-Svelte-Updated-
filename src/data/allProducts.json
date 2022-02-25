@@ -16,6 +16,69 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/Gateway-17-3-FHD-Creator-Notebook-120Hz-Intel-Core-i7-11800H-NVIDIA-GeForce-RTX-3050Ti-1TB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/877804695",
       "category": "gaming",
+      "colors": ["black"],
+      "dimensions": {
+        "length": "15.58",
+        "height": "10.27",
+        "width": "1.10"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 11 Home",
+          "processor": "Intel® Core™ i7-11800H Processor, Up to 4.60 GHz",
+          "display": "17.3” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
+          "hardDrive": "1TB PCI-e Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "16 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.1 x 2 USB 2.0 x 1",
+          "speakers": "THX™ Spacial Audio"
+        },
+        "imageTopSource": {
+          "src": "../images/GGNC71719/product-top-background-img.jpg",
+          "alt": "17.3” FHD Gaming Notebook"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GGNC71719/ports1.png",
+            "port2": "../images/GGNC71719/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GGNC71719/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+
+    {
+      "id": "GGNC-51518",
+      "header": "15.6” FHD Gaming Notebook",
+      "description": "The 15.6” FHD Gaming Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i5-11400H Processor and has 16 GB memory RAM.", 
+      "image": "images/AllProducts/GGNC51518.png" ,
+      "bulletPoints": [
+        "Windows 11 Home",
+        "Intel® Core™ i5-11400H Processor, Up to 4.50 GHz",
+        "15.6” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
+        "NVIDIA GeForce RTX 3050, 4GB vRAM",
+        "Includes 1-month Xbox Game Pass for PC*",
+        "512 GB PCI-e Solid State Drive",
+        "16 GB Dual Channel Memory (RAM)"
+      ],
+      "buyNowLink": "https://www.walmart.com/ip/Gateway-15-6-FHD-Creator-Notebook-120Hz-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-512GB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/199570916",
+      "category": "gaming",
+      "colors": ["black"],
+      "dimensions": {
+        "length": "14.2",
+        "height": "9.7",
+        "width": "0.78"
+      },
 
       "productPage": {
         "specs": {
@@ -51,47 +114,223 @@
 
 
     {
-      "id": "GGNC-51518",
-      "header": "15.6” FHD Gaming Notebook",
-      "description": "The 15.6” FHD Gaming Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i5-11400H Processor and has 16 GB memory RAM.", 
-      "image": "images/AllProducts/GGNC51518.png" ,
+      "id": "GWCC71416",
+      "header": "14.1” 2-in-1 Elite Notebook",
+      "description": "The 14.1” FHD 2-in-1 Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i7-1165G7 Processor and has 8 GB memory RAM. With a sleek and metallic design.", 
+      "image": "images/AllProducts/GWCC51416.png" ,
       "bulletPoints": [
         "Windows 11 Home",
         "Intel® Core™ i5-11400H Processor, Up to 4.50 GHz",
-        "15.6” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
-        "NVIDIA GeForce RTX 3050, 4GB vRAM",
-        "Includes 1-month Xbox Game Pass for PC*",
-        "512 GB PCI-e Solid State Drive",
-        "16 GB Dual Channel Memory (RAM)"
+        "14.1” Touchscreen IPS FHD Display, (1920 x 1080)",
+        "THX Spatial Audio",
+        "256 GB Solid State Drive",
+        "8 GB Memory (RAM)",
+        "Up to 10 hours of battery life"
       ],
-      "buyNowLink": "https://www.walmart.com/ip/Gateway-15-6-FHD-Creator-Notebook-120Hz-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-512GB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/199570916",
-      "category": "gaming",
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "convertible",
+      "colors": ["gray", "blue"],
+      "dimensions": {
+        "length": "12.78",
+        "height": "8.67",
+        "width": "0.70"
+      },
 
       "productPage": {
         "specs": {
           "os": "Windows 11 Home",
-          "processor": "Intel® Core™ i7-11800H Processor, Up to 4.60 GHz",
-          "display": "17.3” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
-          "hardDrive": "1TB PCI-e Solid State Drive",
+          "processor": "Intel® Core™ i7-1165G7 Processor, 1.2GHz base, Up to 4.7GHz",
+          "display": "14.1” Touchscreen IPS FHD Display, (1920 x 1080)",
+          "hardDrive": "256 GB PCI-e Solid State Drive",
           "microSD": "Micro SD Slot (Up to 512 GB) x 1",
-          "frontCamera": "1.0 MP Front-Facing IR Camera",
-          "batteryLife": "Up to 4 hours of battery life",
-          "ramMemory": "16 GB Onboard RAM",
-          "ports": "USB Type-C x 1 USB 3.1 x 2 USB 2.0 x 1",
-          "speakers": "THX™ Spacial Audio"
+          "frontCamera": "2.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.1 x 1",
+          "speakers": "Spacial Audio"
         },
         "imageTopSource": {
-          "src": "../images/GGNC71719/product-top-background-img.jpg",
-          "alt": "17.3” FHD Gaming Notebook"
+          "src": "../images/GWCC51416/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
         },
         "images": {
           "ports": {
-            "port1": "../images/GGNC71719/ports1.png",
-            "port2": "../images/GGNC71719/ports2.png",
+            "port1": "../images/GWCC51416/ports1.png",
+            "port2": "../images/GWCC51416/ports2.png",
             "alt": "Gateway Laptop Ports | USB | Type C"
           },
           "lifestyle": {
-            "image": "../images/GGNC71719/lifestyle.png"
+            "image": "../images/GWCC51416/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+    {
+      "id": "GWCC51416",
+      "header": "14.1” 2-in-1 Elite Notebook",
+      "description": "The 14.1” FHD 2-in-1 Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i7-1165G7 Processor and has 8 GB memory RAM. With a sleek and metallic design.", 
+      "image": "images/AllProducts/GWCC51416.png" ,
+      "bulletPoints": [
+        "Windows 11 Home",
+        "Intel® Core™ i5-1035G1 Processor, 1.0GHz base, Up to 3.6GHz",
+        "14.1” Touchscreen IPS FHD Display, (1920 x 1080)",
+        "THX Spatial Audio",
+        "256 GB Solid State Drive",
+        "8 GB Memory (RAM)",
+        "Up to 10 hours of battery life"
+      ],
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "convertible",
+      "colors": ["gray", "blue"],
+      "dimensions": {
+        "length": "12.78",
+        "height": "8.67",
+        "width": "0.70"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 11 Home",
+          "processor": "Intel® Core™ i5-1035G1 Processor, 1.0GHz base, Up to 3.6GHz",
+          "display": "14.1” Touchscreen IPS FHD Display, (1920 x 1080)",
+          "hardDrive": "256 GB PCI-e Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "2.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.1 x 1",
+          "speakers": "Spacial Audio"
+        },
+        "imageTopSource": {
+          "src": "../images/GWCC51416/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWCC51416/ports1.png",
+            "port2": "../images/GWCC51416/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWCC51416/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+    {
+      "id": "GWNC31514",
+      "header": "15.6” Ultra Slim Notebook",
+      "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks and includes a carrying case and wireless mouse! With a sleek design, this computer also features a 128 GB Solid State Drive.", 
+      "image": "images/AllProducts/GWNC31514.png" ,
+      "bulletPoints": [
+        "Windows 11 Home",
+        "11th Gen Intel® Core™ i3-1115G4 (3.0 GHz, Up to 4.10 GHz, 6M Cache)",
+        "15.6” LCD IPS FHD Display, (1920 x 1080)",
+        "THX Spatial Audio",
+        "128 GB Solid State Drive",
+        "4 GB Memory (RAM)",
+        "Up to 8.5 hours of battery life",
+        "Wireless Mouse and Carrying case included"
+      ],
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["gray", "blue"],
+      "dimensions": {
+        "length": "14.76",
+        "height": "9.5",
+        "width": "0.77"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 11 Home",
+          "processor": "Intel® Core™ i5-1035G1 Processor, 1.0GHz base, Up to 3.6GHz",
+          "display": "15.6” LCD IPS FHD Display, (1920 x 1080)",
+          "hardDrive": "128 GB PCI-e Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "4 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.0 x 2",
+          "speakers": "Spacial Audio"
+        },
+        "imageTopSource": {
+          "src": "../images/GWNC31514/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWNC31514/ports1.png",
+            "port2": "../images/GWNC31514/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWNC31514/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+    {
+      "id": "GWNR51416",
+      "header": "14.1” Ultra Slim Notebook",
+      "description": "The 14.1” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. It is the ideal way to get the best audio for on-the-go entertainment. The computer is powered by AMD Ryzen™ 5 3500U Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 256 GB Solid State Drive.", 
+      "image": "images/AllProducts/GWNR51416.png" ,
+      "bulletPoints": [
+        "Windows 11 Home",
+        "AMD Ryzen™ 5 3500U Processor with Radeon™ Vega 8 Graphics, 2.1GHz base, Up to 3.7GHz",
+        "14.1” IPS FHD Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "256 GB Solid State Drive",
+        "8 GB Memory (RAM)",
+        "Up to 8 hours of battery life",
+        "Fingerprint Scanner"
+      ],
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["gray", "blue", "red", "green"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.75",
+        "width": "0.80"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 11 Home",
+          "processor": "AMD Ryzen™ 5 3500U Processor with Radeon™ Vega 8 Graphics, 2.1GHz base, Up to 3.7GHz",
+          "display": "14.1” IPS FHD Display, (1920 x 1080)",
+          "hardDrive": "256 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.0 x 2",
+          "speakers": "Spacial Audio"
+        },
+        "imageTopSource": {
+          "src": "../images/GWNR51416/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWNR51416/ports1.png",
+            "port2": "../images/GWNR51416/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWNR51416/lifestyle.png"
           }
         }
       }
@@ -100,53 +339,244 @@
 
 
     {
-      "id": "GGNC-51518",
-      "header": "15.6” FHD Gaming Notebook",
-      "description": "The 15.6” FHD Gaming Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i5-11400H Processor and has 16 GB memory RAM.", 
-      "image": "images/AllProducts/GGNC51518.png" ,
+      "id": "GWNR71517",
+      "header": "15.6” Ultra Slim Notebook",
+      "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. It is the ideal way to get the best audio for on-the-go entertainment. The computer is powered by AMD Ryzen™ 7 3700U Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 512 GB Solid State Drive.", 
+      "image": "images/AllProducts/GWNR71517.png" ,
       "bulletPoints": [
         "Windows 11 Home",
-        "Intel® Core™ i5-11400H Processor, Up to 4.50 GHz",
-        "15.6” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
-        "NVIDIA GeForce RTX 3050, 4GB vRAM",
-        "Includes 1-month Xbox Game Pass for PC*",
-        "512 GB PCI-e Solid State Drive",
-        "16 GB Dual Channel Memory (RAM)"
+        "AMD Ryzen™ 7 3700U with Radeon™ RX Vega 10 Graphics, 2.3GHz base, Up to 4.0GHz",
+        "15.6” IPS FHD Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "512 GB Solid State Drive",
+        "8 GB Memory (RAM)",
+        "Up to 10 hours hours of battery life",
+        "Fingerprint Scanner"
       ],
-      "buyNowLink": "https://www.walmart.com/ip/Gateway-15-6-FHD-Creator-Notebook-120Hz-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-512GB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/199570916",
-      "category": "gaming",
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["gray", "blue", "red", "green"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.75",
+        "width": "0.80"
+      },
 
       "productPage": {
         "specs": {
           "os": "Windows 11 Home",
-          "processor": "Intel® Core™ i7-11800H Processor, Up to 4.60 GHz",
-          "display": "17.3” LCD IPS FHD Display, (1920 x 1080), 120Hz Refresh Rate",
-          "hardDrive": "1TB PCI-e Solid State Drive",
+          "processor": "AMD Ryzen™ 7 3700U Processor with Radeon™ RX Vega 10 Graphics, 2.3GHz base, Up to 4.0GHz",
+          "display": "15.6” IPS FHD Display, (1920 x 1080)",
+          "hardDrive": "512 GB Solid State Drive",
           "microSD": "Micro SD Slot (Up to 512 GB) x 1",
           "frontCamera": "1.0 MP Front-Facing IR Camera",
-          "batteryLife": "Up to 4 hours of battery life",
-          "ramMemory": "16 GB Onboard RAM",
-          "ports": "USB Type-C x 1 USB 3.1 x 2 USB 2.0 x 1",
-          "speakers": "THX™ Spacial Audio"
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.0 x 2",
+          "speakers": "Spacial Audio"
         },
         "imageTopSource": {
-          "src": "../images/GGNC71719/product-top-background-img.jpg",
-          "alt": "17.3” FHD Gaming Notebook"
+          "src": "../images/GWNR71517/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
         },
         "images": {
           "ports": {
-            "port1": "../images/GGNC71719/ports1.png",
-            "port2": "../images/GGNC71719/ports2.png",
+            "port1": "../images/GWNR71517/ports1.png",
+            "port2": "../images/GWNR71517/ports2.png",
             "alt": "Gateway Laptop Ports | USB | Type C"
           },
           "lifestyle": {
-            "image": "../images/GGNC71719/lifestyle.png"
+            "image": "../images/GWNR71517/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+
+    {
+      "id": "GWTN156-12",
+      "header": "15.6” Ultra Slim Notebook",
+      "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. It is the ideal way to get the best audio for on-the-go entertainment. The computer is powered by AMD Ryzen™ 7 3700U Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 512 GB Solid State Drive.", 
+      "image": "images/AllProducts/GWTN15612.png" ,
+      "bulletPoints": [
+        "Windows 11 Home",
+        "AMD Ryzen™ 7 3700U with Radeon™ RX Vega 10 Graphics, 2.3GHz base, Up to 4.0GHz",
+        "15.6” IPS FHD Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "512 GB Solid State Drive",
+        "8 GB Memory (RAM)",
+        "Up to 10 hours hours of battery life",
+        "Fingerprint Scanner"
+      ],
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["gray", "blue", "red", "green"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.75",
+        "width": "0.80"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 11 Home",
+          "processor": "AMD Ryzen™ 7 3700U Processor with Radeon™ RX Vega 10 Graphics, 2.3GHz base, Up to 4.0GHz",
+          "display": "15.6” IPS FHD Display, (1920 x 1080)",
+          "hardDrive": "512 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB Type-C x 1 USB 3.0 x 2",
+          "speakers": "Spacial Audio"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-12/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-12/ports1.png",
+            "port2": "../images/GWTN156-12/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-12/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+    {
+      "id": "GWTC116-2",
+      "header": "11.6” 2-in-1 Convertible Notebook",
+      "description": "The 11.6” Convertible Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by an Intel® Celeron® Processor and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 11.6” LCD IPS Touchscreen Display and precision touchpad. The convertible notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done.", 
+      "image": "images/AllProducts/GWTC1162.png" ,
+      "bulletPoints": [
+        "Windows 11 (S mode)",
+        "Intel® Celeron® Processor N4020 (1.1 GHz, Up to 2.8 GHz, 4M Cache)",
+        "11.6” LCD IPS Touchscreen Display, (1366 x 768)",
+        "64 GB eMMC Storage",
+        "Microsoft 365 1-year*",
+        "8 GB Memory (RAM)",
+        "FREE Upgrade to Windows 111 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "blue", "purple", "green"],
+      "dimensions": {
+        "length": "11.1",
+        "height": "7.6",
+        "width": "0.7"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 11 (S mode)",
+          "processor": "Intel® Celeron® Processor N4020 (1.1 GHz, Up to 2.8 GHz, 4M Cache)",
+          "display": "11.6” LCD IPS Touchscreen Display, (1366 x 768)",
+          "hardDrive": "64 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTC116-2/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTC116-2/ports1.png",
+            "port2": "../images/GWTC116-2/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTC116-2/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+
+    {
+      "id": "GWTC116-3",
+      "header": "11.6” 2-in-1 Convertible Notebook",
+      "description": "The 11.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. Rugged and durable in design to keep up with your lifestyle. The computer is powered by a Qualcomm® Snapdragon™ 7c and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 11.6” LCD IPS Display and precision touchpad. The convertible notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done.", 
+      "image": "images/AllProducts/GWTC1163.png" ,
+      "bulletPoints": [
+        "Windows 11 (S mode)",
+        "Qualcomm® Snapdragon™ 7c Compute Platform (Up to 2.4GHz)",
+        "11.6” LCD IPS Touchscreen Display, (1366 x 768)",
+        "64 GB eMMC Storage",
+        "Microsoft 365 1-year*",
+        "8 GB Memory (RAM)",
+        "FREE Upgrade to Windows 111 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["charcoal"],
+      "dimensions": {
+        "length": "12.25",
+        "height": "8.75",
+        "width": "0.9"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 11 (S mode)",
+          "processor": "Qualcomm® Snapdragon™ 7c Compute Platform (Up to 2.4GHz)",
+          "display": "11.6” LCD IPS Touchscreen Display, (1366 x 768)",
+          "hardDrive": "64 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTC116-3/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTC116-3/ports1.png",
+            "port2": "../images/GWTC116-3/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTC116-3/lifestyle.png"
           }
         }
       }
     }
 
 
+
+
+    
     
   ]
 }

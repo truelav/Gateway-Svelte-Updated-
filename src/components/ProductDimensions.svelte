@@ -2,6 +2,8 @@
   import dimensionsTopImage from '/images/Lifestyle/dimensions-top-image.jpg'
   import dimensionsBotImage from '/images/Lifestyle/dimensions-bot-image.jpg'
   import dimensionsOutlineImage from '/images/Lifestyle/outline.jpg'
+
+  export let productData
 </script>
 
 
@@ -16,36 +18,35 @@
           <div class="product-specs-top-inner-container grid grid-cols-3">
 
             <div class="flex  flex-col content-center m-auto">
-              <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Inside Box</h2>
-              <p>
-                  Gateway Laptop
-              </p>
-              <p>
-                  Laptop Charger
-              </p>
-              <p>
-                  Warranty Book
-              </p>
-              <p>
-                  Quick Start Guide
-              </p>
+              <h2 class="sm:text-3xl text-xl font-medium title-font mb-4 text-gray-900 s-FcQS7QhyxSEx">Inside Box</h2>
+              <div class="">
+                <p class="m-2">
+                    Gateway Laptop
+                </p>
+                <p class="m-2">
+                    Laptop Charger
+                </p>
+                <p class="m-2">
+                    Warranty Book
+                </p>
+                <p class="m-2">
+                    Quick Start Guide
+                </p>
+              </div>
             </div>
 
             <img src={dimensionsOutlineImage} class="product-outline-image" alt="gateway outline laptop">
 
             <div class="flex  flex-col content-center m-auto">
-              <h2 class="text-gray-900 text-lg title-font font-medium mb-3">Product Dimensions</h2>
-              <p>
-                  Product Dimensions
+              <h2 class="sm:text-3xl text-xl font-medium title-font mb-4 text-gray-900 s-FcQS7QhyxSEx">Product Dimensions</h2>
+              <p class="m-2">
+                  Length: {productData.dimensions.length}”
               </p>
-              <p>
-                  Length: 15.58”
+              <p class="m-2">
+                  Height: {productData.dimensions.height}”
               </p>
-              <p>
-                  Height: 10.27”
-              </p>
-              <p>
-                  Width: 1.10"
+              <p class="m-2">
+                  Width: {productData.dimensions.width}"
               </p>
             </div>
         </div>

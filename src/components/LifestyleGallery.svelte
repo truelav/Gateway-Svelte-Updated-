@@ -4,17 +4,36 @@
   import lifestyleImage3 from '/images/Lifestyle/lifestyle3.jpg'
 </script>
 
-<section class="text-gray-600 body-font py-6">
-  <div class="container flex justify-center m-auto">
-    <div class="grid grid-rows-4 grid-cols-4 grid-flow-col gap-4 ">
-      <div class="row-span-2 col-span-4">
-        <img alt="gallery" class="w-full object-cover h-full object-center block inset-0" src={lifestyleImage1}>
+<section class="overflow-hidden text-gray-700">
+  <div class="container px-5 py-2 mx-auto lg:pt-6 lg:px-32">
+    <div class="flex flex-wrap -m-1 md:-m-2">
+      <div class="flex flex-wrap w-1/2">
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            src={lifestyleImage2}>
+        </div>
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            src={lifestyleImage3}>
+        </div>
+        <div class="w-full p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            src={lifestyleImage1}>
+        </div>
       </div>
-      <div class="row-span-2 col-span-2">
-        <img alt="gallery" class="w-full object-cover h-full object-center block inset-0" src={lifestyleImage2}>
-      </div>
-      <div class="row-span-2 col-span-2">
-        <img alt="gallery" class="w-full object-cover h-full object-center block inset-0" src={lifestyleImage3}>
+      <div class="flex flex-wrap w-1/2">
+        <div class="w-full p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            src={lifestyleImage1}>
+        </div>
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            src={lifestyleImage2}>
+        </div>
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            src={lifestyleImage3}>
+        </div>
       </div>
     </div>
   </div>

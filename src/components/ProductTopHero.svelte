@@ -25,6 +25,15 @@
           </ul>
           <button class="flex text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Buy Now</button>
         </div>
+
+        {#if productData.windowsActivation}
+          <p class="leading-relaxed text-sm mt-2 mb-2">{productData.windowsActivation.p1}</p>
+          <p class="leading-relaxed text-sm mb-2">{productData.windowsActivation.p2}</p>
+          <p class="leading-relaxed text-sm italic text-indigo-600">
+            (see <a href={productData.windowsActivation.p1}>aka.md/windows11-spec</a> )
+          </p>
+        {/if}
+
       </div>
 
       <div class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">

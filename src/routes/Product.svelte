@@ -22,7 +22,7 @@
 <ProductTopHero {productData}/>
 
 <!-- Dimensions Sections -->
-<ProductDimensions />
+<ProductDimensions {productData}/>
 
 <div class="backgroundSpots">
 
