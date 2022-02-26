@@ -10,7 +10,7 @@
 
 <section class="product-specs-sections">
   <div class="product-specs-border-image-container">
-    <img src={dimensionsTopImage} class="footer-top-image" alt="footer gateway wave image">
+    <img src={dimensionsTopImage} class="footer-top-image" alt="footer gateway wave" >
   </div>
   <div class="product-specs-container">
 
