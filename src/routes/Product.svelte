@@ -10,7 +10,7 @@
   import ProductSpecs from '../components/ProductSpecs.svelte'
   import ProductPorts from '../components/ProductPorts.svelte'
 
-  import ProductRatingSummary from '../components/ProductRatingSummary.svelte';
+  import ProductRatings from '../components/ProductRatings.svelte';
 
   export let params;
 
@@ -33,6 +33,8 @@
   <ProductPorts {productData} />
   
   <LifestyleGallery />
+
+  <!-- <ProductRatings /> -->
 
 </div>
 

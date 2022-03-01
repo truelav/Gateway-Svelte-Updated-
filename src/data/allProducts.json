@@ -588,7 +588,7 @@
         "64 GB eMMC Storage",
         "Microsoft 365 1-year*",
         "4 GB Memory (RAM)",
-        "FREE Upgrade to Windows 111 (when available, see below)"
+        "FREE Upgrade to Windows 11 (when available, see below)"
       ],
       "windowsActivation": {
         "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
@@ -689,6 +689,427 @@
           },
           "lifestyle": {
             "image": "../images/GWTN133-1/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+    {
+      "id": "GWTN141-6",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by a 11th Gen Intel® Core™ i3-1115G4 Processor and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 14.1” LCD IPS Display and precision touchpad. The convertible notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done, oh and not to mention the built-in fingerprint scanner.", 
+      "image": "images/AllProducts/GWTN1416.png" ,
+      "bulletPoints": [
+        "Windows 10 (S mode)",
+        "11th Gen Intel® Core™ i3-1115G4 (3.0 GHz, Up to 4.10 GHz, 6M Cache)",
+        "Tuned by THX™ Audio",
+        "14.1” LCD IPS Display, (1920 x 1080)",
+        "128 GB eMMC Storage",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.9",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S mode)",
+          "processor": "11th Gen Intel® Core™ i3-1115G4 (3.0 GHz, Up to 4.10 GHz, 6M Cache)",
+          "display": "14.1” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "128 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB Type-C (Data transfer only) x 1 USB 3.0 x 2",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-6/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-6/ports1.png",
+            "port2": "../images/GWTN141-6/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-6/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN141-10",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by 11th Gen Intel® Core™ i5-1135G7 Processor and has a 512 GB Solid State Drive. With a sleek and metallic design, this computer also features an Intel® Iris® Xe Graphics. You’re guaranteed to experience clarity with a 14.1” LCD IPS Display that is full lamination, and precision touchpad.", 
+      "image": "images/AllProducts/GWTN14110.png" ,
+      "bulletPoints": [
+        "Windows 10",
+        "11th Gen Intel® Core™ i5-1135G7 (2.40 GHz, Up to 4.20 GHz, 8M Cache)",
+        "Tuned by THX™ Audio",
+        "14.1” LCD IPS Display, (1920 x 1080)",
+        "512 GB eMMC Storage",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "rose gold", "silver"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.75",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10",
+          "processor": "11th Gen Intel® Core™ i5-1135G7 (2.40 GHz, Up to 4.20 GHz, 8M Cache)",
+          "display": "14.1” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "512 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB Type-C (Data transfer only) x 1 USB 3.0 x 2",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-10/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-10/ports1.png",
+            "port2": "../images/GWTN141-10/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-10/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN156-7",
+      "header": "15.6” Ultra Slim Notebook",
+      "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by 11th Gen Intel® Core™ i3-1115G4 Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 256 GB Solid State Drive. You’re guaranteed to experience clarity with a 15.6” LCD IPS Display and precision touchpad.", 
+      "image": "images/AllProducts/GWTN1567.png" ,
+      "bulletPoints": [
+        "Windows 10",
+        "11th Gen Intel® Core™ i3-1115G4 (3.0 GHz, Up to 4.10 GHz, 6M Cache)",
+        "15.6” LCD IPS Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "256 GB eMMC Storage",
+        "8 GB Onboard RAM",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10",
+          "processor": "11th Gen Intel® Core™ i3-1115G4 (3.0 GHz, Up to 4.10 GHz, 6M Cache)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "256 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "8 GB LPDDR4 RAM",
+          "ports": "USB Type-C (Data transfer only) x 1 USB 3.0 x 2",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-7/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-7/ports1.png",
+            "port2": "../images/GWTN156-7/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-7/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+
+    {
+      "id": "GWTN156-9",
+      "header": "15.6” Ultra Slim Notebook",
+      "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by 11th Gen Intel® Core™ i5-1135G7 Processor and has a 512 GB Solid State Drive. With a sleek and metallic design, this computer also features an Intel® Iris® Xe Graphics. You’re guaranteed to experience clarity with a 15.6” LCD IPS Display that is full lamination, and precision touchpad.", 
+      "image": "images/AllProducts/GWTN1569.png" ,
+      "bulletPoints": [
+        "Windows 10",
+        "11th Gen Intel® Core™ i5-1135G7 Processor (2.40GHz, Up to 4.20GHz, 8M Cache)",
+        "15.6” LCD IPS Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "512 GB eMMC Storage",
+        "16 GB Onboard RAM",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "rose gold", "silver"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10",
+          "processor": "11th Gen Intel® Core™ i5-1135G7 Processor (2.40GHz, Up to 4.20GHz, 8M Cache)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "512 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "16 GB LPDDR4 RAM",
+          "ports": "USB Type-C x 1 USB 3.0 x 2",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-9/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-9/ports1.png",
+            "port2": "../images/GWTN156-9/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-9/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN156-11",
+      "header": "15.6” FHD Ultra Slim Notebook",
+      "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by Intel® Pentium® Silver N5030 Processor and has 4 GB memory RAM allows you to ease through your daily tasks. With a sleek design, this computer also features 128 GB eMMC Storage. You’re guaranteed to experience clarity with a 15.6” LCD IPS Display and precision touchpad.", 
+      "image": "images/AllProducts/GWTN15611.png" ,
+      "bulletPoints": [
+        "Windows 10 (S Mode)",
+        "Intel® Pentium® Silver N5030 Processor (1.10GHz, Up to 3.10GHz, 4M Cache)",
+        "15.6” LCD IPS Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "128 GB eMMC Storage",
+        "4 GB Onboard RAM",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "rose gold", "silver"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S Mode)",
+          "processor": "Intel® Pentium® Silver N5030 Processor (1.10GHz, Up to 3.10GHz, 4M Cache)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "128 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1.0 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB Type-C x 1 USB 3.0 x 2",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-11/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-11/ports1.png",
+            "port2": "../images/GWTN156-11/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-11/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTC116-1",
+      "header": "11.6” 2-in-1 Convertible Notebook",
+      "description": "The 11.6-inch Gateway convertible notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks.", 
+      "image": "images/AllProducts/GWTC116.jpg" ,
+      "bulletPoints": [
+        "Windows 10 (S Mode)",
+        "Intel® Celeron® Processor N3350 (1.1 GHz, Up to 2.4GHz, 2M Cache)",
+        "11.6” LCD IPS Touchscreen Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "64 GB eMMC Storage",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "11.1",
+        "height": "7.6",
+        "width": "0.7"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S Mode)",
+          "processor": "Intel® Celeron® Processor N3350 (1.1 GHz, Up to 2.4GHz, 2M Cache)",
+          "display": "11.6” LCD IPS Touchscreen Display, (1920 x 1080)",
+          "hardDrive": "64 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "0.3 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTC116-1/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTC116-1/ports1.png",
+            "port2": "../images/GWTC116-1/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTC116-1/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN116-1",
+      "header": "11.6” FHD Convertible Notebook",
+      "description": "The 11.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. With a high-powered AMD A4 processor and Radeon R3 graphics card will allow you can tackle all of your daily tasks and projects with ease and haste—and with a slim and light weight frame you can take it everywhere you go.", 
+      "image": "images/AllProducts/GWTN1161.png" ,
+      "bulletPoints": [
+        "Windows 10 (S Mode)",
+        "7th Gen AMD A4-9120E APU with Radeon™ R3 Graphics (1.6GHz, Up to 2.4GHz, 1M Cache)",
+        "11.6” LCD Display, (1920 x 1080)",
+        "64 GB eMMC Storage",
+        "Tuned by THX™ Audio",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "11.1",
+        "height": "7.5",
+        "width": "0.7"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S Mode)",
+          "processor": "7th Gen AMD A4-9120E APU with Radeon™ R3 Graphics (1.6GHz, Up to 2.4GHz, 1M Cache)",
+          "display": "11.6” LCD Display, (1920 x 1080)",
+          "hardDrive": "64 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "0.3 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN116-1/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN116-1/ports1.png",
+            "port2": "../images/GWTN116-1/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN116-1/lifestyle.png"
           }
         }
       }
