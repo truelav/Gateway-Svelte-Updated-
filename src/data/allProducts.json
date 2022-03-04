@@ -1003,7 +1003,7 @@
       "id": "GWTC116-1",
       "header": "11.6” 2-in-1 Convertible Notebook",
       "description": "The 11.6-inch Gateway convertible notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks.", 
-      "image": "images/AllProducts/GWTC116.jpg" ,
+      "image": "images/AllProducts/GWTC116.png" ,
       "bulletPoints": [
         "Windows 10 (S Mode)",
         "Intel® Celeron® Processor N3350 (1.1 GHz, Up to 2.4GHz, 2M Cache)",
@@ -1113,7 +1113,712 @@
           }
         }
       }
+    },
+
+
+
+    {
+      "id": "GWTN141-1",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
+      "image": "images/AllProducts/GWTN1411.png" ,
+      "bulletPoints": [
+        "Windows 10 (S Mode)",
+        "7th Gen AMD A4-9120E APU with Radeon™ R3 Graphics (1.6GHz, Up to 2.4GHz, 1M Cache)",
+        "11.6” LCD Display, (1920 x 1080)",
+        "64 GB eMMC Storage",
+        "Tuned by THX™ Audio",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.9",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S Mode)",
+          "processor": "7th Gen AMD A4-9120E APU with Radeon™ R3 Graphics (1.6GHz, Up to 2.4GHz, 1M Cache)",
+          "display": "11.6” LCD Display, (1920 x 1080)",
+          "hardDrive": "64 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "0.3 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-1/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-1/ports1.png",
+            "port2": "../images/GWTN141-1/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-1/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN141-2",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
+      "image": "images/AllProducts/GWTN1412.png" ,
+      "bulletPoints": [
+        "Windows 10 (S Mode)",
+        "AMD Ryzen™ 3 3200U Mobile Processor with Radeon™ Vega 3 Graphics (2.6GHz, Up to 3.5GHz)",
+        "Tuned by THX™ Audio",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "4 GB Onboard RAM",
+        "128 GB Solid State Drive",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.9",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S Mode)",
+          "processor": "AMD Ryzen™ 3 3200U Mobile Processor with Radeon™ Vega 3 Graphics (2.6GHz, Up to 3.5GHz)",
+          "display": "14.1” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "128 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "0.3 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-1/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-1/ports1.png",
+            "port2": "../images/GWTN141-1/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-1/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN141-2",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
+      "image": "images/AllProducts/GWTN1412.png" ,
+      "bulletPoints": [
+        "Windows 10 (S Mode)",
+        "AMD Ryzen™ 3 3200U Mobile Processor with Radeon™ Vega 3 Graphics (2.6GHz, Up to 3.5GHz)",
+        "Tuned by THX™ Audio",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "4 GB Onboard RAM",
+        "128 GB Solid State Drive",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.9",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S Mode)",
+          "processor": "AMD Ryzen™ 3 3200U Mobile Processor with Radeon™ Vega 3 Graphics (2.6GHz, Up to 3.5GHz)",
+          "display": "14.1” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "128 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "0.3 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-1/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-1/ports1.png",
+            "port2": "../images/GWTN141-1/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-1/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN141-3",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
+      "image": "images/AllProducts/GWTN1412.png" ,
+      "bulletPoints": [
+        "Windows 10 (S Mode)",
+        "10th Gen Intel® Core™ i3-1005G1 Processor (1.2GHz, Up to 3.4GHz, 4M Cache)",
+        "Tuned by THX™ Audio",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "4 GB Onboard RAM",
+        "128 GB Solid State Drive",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "purple"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.9",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S Mode)",
+          "processor": "10th Gen Intel® Core™ i3-1005G1 Processor (1.2GHz, Up to 3.4GHz, 4M Cache)",
+          "display": "14.1” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "128 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "0.3 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-1/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-1/ports1.png",
+            "port2": "../images/GWTN141-1/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-1/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN141-4",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Intel Core i5 processor lets you ease through your daily tasks, paired with the Tuned by THX Audio lets you experience the theater level quality while in the convenience of your home.", 
+      "image": "images/AllProducts/GWTN1412.png" ,
+      "bulletPoints": [
+        "Windows 10 Home",
+        "10th Gen Intel® Core™ i5-1035G1 Processor (1.0GHz, Up to 3.6GHz, 6M Cache)",
+        "Tuned by THX™ Audio",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "16 GB Onboard RAM",
+        "256 GB Solid State Drive",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "rose gold"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.9",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 Home",
+          "processor": "10th Gen Intel® Core™ i5-1035G1 Processor (1.0GHz, Up to 3.6GHz, 6M Cache)",
+          "display": "14.1” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "256 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "16 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-4/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-4/ports1.png",
+            "port2": "../images/GWTN141-4/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-4/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN141-5",
+      "header": "14.1” FHD Ultra Slim Notebook",
+      "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Intel Core i5 processor lets you ease through your daily tasks, paired with the Tuned by THX Audio lets you experience the theater level quality while in the convenience of your home.", 
+      "image": "images/AllProducts/GWTN1412.png" ,
+      "bulletPoints": [
+        "Windows 10 (S mode)",
+        "Intel® Celeron® Processor N4020 (1.1 GHz, Up to 2.8 GHz, 4M Cache)",
+        "Tuned by THX™ Audio",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "4 GB LPDDR4 RAM",
+        "64 GB eMMC Storage",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "rose gold"],
+      "dimensions": {
+        "length": "13.1",
+        "height": "8.9",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 (S mode)",
+          "processor": "Intel® Celeron® Processor N4020 (1.1 GHz, Up to 2.8 GHz, 4M Cache)",
+          "display": "14.1” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "64 GB eMMC Storage",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 4 hours of battery life",
+          "ramMemory": "4 GB LPDDR4 RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN141-5/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN141-5/ports1.png",
+            "port2": "../images/GWTN141-5/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN141-5/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN156-1",
+      "header": "15.6” FHD FHD Ultra Slim Notebook",
+      "description": "The 15.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Intel Core i5 processor lets you ease through your daily tasks, paired with the Tuned by THX Audio lets you experience the theater level quality while in the convenience of your home.", 
+      "image": "images/AllProducts/GWTN1561.png" ,
+      "bulletPoints": [
+        "Windows 10 Home",
+        "AMD Ryzen™ 5 4600H Processor (3.0GHz, Up to 4.0GHz, 8M Cache)",
+        "Tuned by THX™ Audio",
+        "15.6” LCD IPS Display, (1920 x 1080)",
+        "16 GB Onboard RAM",
+        "256 GB Solid State Drive",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "FREE Upgrade to Windows 11 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "green", "blue", "pink"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 Home",
+          "processor": "10th Gen Intel® Core™ i5-1035G1 Processor (1.0GHz, Up to 3.6GHz, 6M Cache)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080)",
+          "hardDrive": "256 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "16 GB Onboard RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-1/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-1/ports1.png",
+            "port2": "../images/GWTN156-1/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-1/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN156-2",
+      "header": "15.6” FHD Performance Notebook",
+      "description": "The Gateway Creator Series 15.6” Performance Notebook is a powerhouse equipped with an AMD Ryzen™ 5 4600H Mobile Processor with Radeon™ Graphics and an NVIDIA GeForce GTX 1650 allowing you to game with ease or breeze through you daily tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home. During gaming, you will feel like you are in the center of the action with the THX Spatial audio software which provides stereo and spatial surround sound through headphones by simulating a 7.1 surround sound.", 
+      "image": "images/AllProducts/GWTN1562.png" ,
+      "bulletPoints": [
+        "Windows 10 Home",
+        "AMD Ryzen™ 5 4600H Prcessor (3.0GHz, Up to 4.0GHz, 8M Cache)",
+        "Tuned by THX™ Audio & Display",
+        "NVIDIA GeForce GTX 1650 4 GB vRAM",
+        "8 GB Onboard RAM",
+        "256 GB Solid State Drive"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 Home",
+          "processor": "AMD Ryzen™ 5 4600H Mobile Processor with Radeon™ Graphics (3.0GHz, Up to 4.0GHz, 8M Cache)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080), 120Hz",
+          "hardDrive": "256 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-2/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-2/ports1.png",
+            "port2": "../images/GWTN156-2/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-2/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN156-3",
+      "header": "15.6” FHD Performance Notebook",
+      "description": "The Gateway Creator Series 15.6” Performance Notebook is a powerhouse equipped with 10th Gen Intel i5 and an NVIDIA GeForce RTX 2060 allowing you to game with ease or breeze through you daily tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home. During gaming, you will feel like you are in the center of the action with the THX Spatial audio software which provides stereo and spatial surround sound through headphones by simulating a 7.1 surround sound.", 
+      "image": "images/AllProducts/GWTN1562.png" ,
+      "bulletPoints": [
+        "Windows 10 Home",
+        "10th Gen Intel® Core™ i5-10300H (2.5GHz, Up to 4.5GHz, 8M Cache)",
+        "Tuned by THX™ Audio & Display",
+        "NVIDIA GeForce RTX 2060 6 GB vRAM",
+        "8 GB Onboard RAM",
+        "256 GB Solid State Drive"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 Home",
+          "processor": "10th Gen Intel® Core™ i5-10300H Processor (2.5GHz, Up to 4.5GHz, 8M Cache)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080), 120Hz",
+          "hardDrive": "256 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 8.5 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-3/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-3/ports1.png",
+            "port2": "../images/GWTN156-3/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-2/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN156-4",
+      "header": "15.6” FHD Ultra Slim Notebook",
+      "description": "The 15.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. AMD Ryzen™ Mobile Processors deliver premium performance for productivity, entertainment, gaming, and content creation in thin and light laptops. Tuned by THX™ audio products enable listeners to get the best audio quality possible by providing custom fidelity improvements, balanced reproduction, and optimal frequency response. It is the ideal way to get the best audio for on-the-go entertainment.", 
+      "image": "images/AllProducts/GWTN1569.png" ,
+      "bulletPoints": [
+        "Windows 10 Home",
+        "AMD Ryzen™ 5 3450U Processor (2.1GHz, Up to 3.50GHz)",
+        "15.6” LCD IPS Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "8 GB Onboard RAM",
+        "256 GB Solid State Drive",
+        "FREE Upgrade to Windows 111 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "blue", "green", "purple"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 Home",
+          "processor": "AMD Ryzen™ 5 3450U Mobile Processor with Radeon™ Vega 8 Graphics (2.1GHz, Up to 3.50GHz)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080), 120Hz",
+          "hardDrive": "256 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "8 GB Onboard RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-4/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-7/ports1.png",
+            "port2": "../images/GWTN156-7/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-4/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWTN156-5",
+      "header": "15.6” FHD Ultra Slim Notebook",
+      "description": "The 15.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. AMD Ryzen™ Mobile Processors deliver premium performance for productivity, entertainment, gaming, and content creation in thin and light laptops. Tuned by THX™ audio products enable listeners to get the best audio quality possible by providing custom fidelity improvements, balanced reproduction, and optimal frequency response. It is the ideal way to get the best audio for on-the-go entertainment.", 
+      "image": "images/AllProducts/GWTN1569.png" ,
+      "bulletPoints": [
+        "Windows 10 Home",
+        "AMD Ryzen™ 5 3450U Processor (2.1GHz, Up to 3.50GHz)",
+        "15.6” LCD IPS Display, (1920 x 1080)",
+        "Tuned by THX™ Audio",
+        "Built-in Fingerprint Scanner (Windows Hello)",
+        "16 GB Onboard RAM",
+        "256 GB Solid State Drive",
+        "FREE Upgrade to Windows 111 (when available, see below)"
+      ],
+      "windowsActivation": {
+        "link": "https://www.microsoft.com/en-us/windows/windows-11-specifications?r=1",
+        "p1": "*Activation required within 180 days of Windows activation date.",
+        "p2": "1Device comes with Windows 10 and a free Windows 11 upgrade or may be preloaded with Windows 11. The Windows 11 upgrade will be delivered to qualifying devices late 2021 into 2022. Timing will vary by device. Certain features require specific hardware"
+      },
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "ultra-slim",
+      "colors": ["black", "blue", "green", "purple"],
+      "dimensions": {
+        "length": "14.8",
+        "height": "9.6",
+        "width": "0.8"
+      },
+
+      "productPage": {
+        "specs": {
+          "os": "Windows 10 Home",
+          "processor": "AMD Ryzen™ 5 3450U Mobile Processor with Radeon™ Vega 8 Graphics (2.1GHz, Up to 3.50GHz)",
+          "display": "15.6” LCD IPS Display, (1920 x 1080), 120Hz",
+          "hardDrive": "256 GB Solid State Drive",
+          "microSD": "Micro SD Slot (Up to 512 GB) x 1",
+          "frontCamera": "1 MP Front-Facing IR Camera",
+          "batteryLife": "Up to 10 hours of battery life",
+          "ramMemory": "16 GB Onboard RAM",
+          "ports": "USB 2.0 x 1 USB 3.0 x 1",
+          "speakers": "Built-in Stereo Speakers x 2"
+        },
+        "imageTopSource": {
+          "src": "../images/GWTN156-4/product-top-background-img.jpg",
+          "alt": "The 14.1” FHD 2-in-1 Notebook from Gateway"
+        },
+        "images": {
+          "ports": {
+            "port1": "../images/GWTN156-7/ports1.png",
+            "port2": "../images/GWTN156-7/ports2.png",
+            "alt": "Gateway Laptop Ports | USB | Type C"
+          },
+          "lifestyle": {
+            "image": "../images/GWTN156-4/lifestyle.png"
+          }
+        }
+      }
+    },
+
+
+
+    {
+      "id": "GWAT10-1",
+      "header": "10.1” Gateway Tablet",
+      "description": "", 
+      "image": "images/AllProducts/GWAT10-1.png" ,
+      "bulletPoints": [
+        "Quad Core Processor",
+        "10.1” Screen Tablet",
+        "32GB Storage",
+        "2GB Memory RAM",
+        "0.3MP Front Camera",
+        "2MP Rear Camera",
+        "Android 10 Go"
+      ],
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "tablets"
+    },
+
+
+
+    {
+      "id": "GWAT8-1",
+      "header": "8.0” Gateway Tablet",
+      "description": "", 
+      "image": "images/AllProducts/GWAT8-1.png" ,
+      "bulletPoints": [
+        "Quad Core Processor",
+        "8.0” Screen Tablet",
+        "32GB Storage",
+        "2GB Memory RAM",
+        "0.3MP Front Camera",
+        "2MP Rear Camera",
+        "Android 10 Go"
+      ],
+      "buyNowLink": "https://www.walmart.com/ip/864958816",
+      "category": "tablets"
     }
+
+
+
+
+
 
     
     

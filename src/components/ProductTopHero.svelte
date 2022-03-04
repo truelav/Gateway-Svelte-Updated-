@@ -2,6 +2,7 @@
   export let productData
   import ProductRatingSummary from './ProductRatingSummary.svelte';
   import walmartIcon from '/images/Icons/walmart.png'
+  import windowsIcon from '/images/Icons/windows11.png'
 </script>
 
 
@@ -18,40 +19,55 @@
           <p class="leading-relaxed text-base italic">Model: {productData.id}</p>
           <ProductRatingSummary />  
           <p class="leading-relaxed text-base my-5">{productData.description}</p>
+          <div class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">
+            <div class="flex">
+              <span class="mr-3">Available Colors:</span>
+              <button class="border-2 border-gray-300 rounded-full w-6 h-6 focus:outline-none"></button>
+              <button class="border-2 border-gray-300 ml-1 bg-gray-700 rounded-full w-6 h-6 focus:outline-none"></button>
+              <button class="border-2 border-gray-300 ml-1 bg-indigo-500 rounded-full w-6 h-6 focus:outline-none"></button>
+            </div>
+          </div>
           <ul class="my-5">
             {#each productData.bulletPoints as bullet}
-              <li class="list-disc mx-5 italic">{bullet}</li>
+              <li class="list-disc mx-5 italic md:text-left">{bullet}</li>
             {/each}
           </ul>
-          <button class="flex text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Buy Now</button>
+          <div class="flex column justify-between">
+            <button class="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Buy Now</button>
+            <div class="ml-6 lg:center items-center">
+              <p class="leading-relaxed text-sm w-1/2 exclusive-at-walmart">Available exclusively at:</p>
+              <img class="w-1/3" src={walmartIcon} alt="Exclusive At Walmart">
+            </div>
+          </div>
         </div>
-
-        {#if productData.windowsActivation}
-          <p class="leading-relaxed text-sm mt-2 mb-2">{productData.windowsActivation.p1}</p>
-          <p class="leading-relaxed text-sm mb-2">{productData.windowsActivation.p2}</p>
-          <p class="leading-relaxed text-sm italic text-indigo-600">
-            (see <a href={productData.windowsActivation.p1}>aka.md/windows11-spec</a> )
-          </p>
-        {/if}
-
-      </div>
-
-      <div class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">
-        <div class="flex">
-          <span class="mr-3">Available Colors:</span>
-          <button class="border-2 border-gray-300 rounded-full w-6 h-6 focus:outline-none"></button>
-          <button class="border-2 border-gray-300 ml-1 bg-gray-700 rounded-full w-6 h-6 focus:outline-none"></button>
-          <button class="border-2 border-gray-300 ml-1 bg-indigo-500 rounded-full w-6 h-6 focus:outline-none"></button>
-        </div>
-      </div>
-
-      <div class="flex mb-10 lg:center items-center">
-        <p class="leading-relaxed text-xl w-1/2 exclusive-at-walmart">Available exclusively at:</p>
-        <img class="w-1/3" src={walmartIcon} alt="Exclusive At Walmart">
       </div>
     </div>
+    
+    <div class="my-8 divide-y-2 divide-gray-100">
+      <div class="py-8 flex flex-wrap md:flex-nowrap">
+        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+          <img class="m-auto" src={windowsIcon} alt="Free Upgrade when available windows 11">
+        </div>
+        <div class="md:flex-grow ml-8">
+          {#if productData.windowsActivation}
+          <p class="leading-relaxed text-xs mt-2 mb-2">{productData.windowsActivation.p1}</p>
+          <p class="leading-relaxed text-xs mb-2">{productData.windowsActivation.p2}</p>
+          <p class="leading-relaxed text-xs italic text-indigo-600">
+            (see <a href={productData.windowsActivation.p1}>aka.md/windows11-spec</a> )
+          </p>
+          {/if}
+        </div>
+      </div>
+    </div>
+    
   </div>
 </section>
+
+
+
+
+
+
 
 <style>
   .exclusive-at-walmart {

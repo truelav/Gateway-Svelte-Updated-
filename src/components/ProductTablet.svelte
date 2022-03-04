@@ -2,7 +2,7 @@
   export let item
 </script>
 
-<div class="md:w-1/3 sm:w-1/2">
+<div class="lg:w-1/3 md:w-1/2 sm:w-1/2">
   <div class="p-4 product-tablet-wrapper border-2 border-gray-200 m-3 rounded-2xl hover:bg-slate-100">
     <div class="rounded-lg h-64 overflow-hidden">
       <img alt="content" class="object-contain object-center h-full w-full" src={item.image}>

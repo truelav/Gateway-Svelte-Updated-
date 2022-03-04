@@ -3,6 +3,8 @@
 import seriesImageSrc1 from '../assets/Images/Home/product1.jpg'
 import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 
+import LifestyleGallery from '../components/LifestyleGallery.svelte'
+
 </script>
 
 
@@ -41,7 +43,7 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 
 	<section class="home-partners-section">
 		<div class="home-partners-container">                    
-				<div class="container">
+				<div class="container flex m-auto">
 						<div class="grid grid-cols-4 gap-4">
 								<div class="flex">
 										<img class="home-icon-image m-auto w-9/12" alt="microsoft" src="/images/Lifestyle/logo1.png">
@@ -60,9 +62,9 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 		</div>
 	</section>
 
-	<div class="home-3d-section">
-		<iframe src='https://my.spline.design/glasscirclescopy-0161324e9e70ffe758f7dd995ba8e868/' frameborder='0' width='100%' height='100%' title="3d-Background"></iframe>
-	</div>
+	<!-- <div class="home-3d-section">
+		<iframe src='https://my.spline.design/gateway1-6d06b2b6fdc035bfc0c191cb695e6b26/' frameborder='0' width='100%' height='100%'></iframe>
+	</div> -->
 
 	<!-- Series Sections -->
 
@@ -84,83 +86,8 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 		</div>
 	</section>
 
-
 	<!-- Steps Section -->
 
-	<section class="text-gray-600 body-font">
-		<div class="container px-5 py-24 mx-auto flex flex-wrap">
-			<div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
-				<div class="h-full w-6 absolute inset-0 flex items-center justify-center">
-					<div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
-				</div>
-				<div class="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">1</div>
-				<div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
-					<div class="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-						<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-12 h-12" viewBox="0 0 24 24">
-							<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
-						</svg>
-					</div>
-					<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-						<h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Shooting Stars</h2>
-						<p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
-					</div>
-				</div>
-			</div>
-			<div class="flex relative pb-20 sm:items-center md:w-2/3 mx-auto">
-				<div class="h-full w-6 absolute inset-0 flex items-center justify-center">
-					<div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
-				</div>
-				<div class="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">2</div>
-				<div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
-					<div class="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-						<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-12 h-12" viewBox="0 0 24 24">
-							<path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-						</svg>
-					</div>
-					<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-						<h2 class="font-medium title-font text-gray-900 mb-1 text-xl">The Catalyzer</h2>
-						<p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
-					</div>
-				</div>
-			</div>
-			<div class="flex relative pb-20 sm:items-center md:w-2/3 mx-auto">
-				<div class="h-full w-6 absolute inset-0 flex items-center justify-center">
-					<div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
-				</div>
-				<div class="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">3</div>
-				<div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
-					<div class="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-						<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-12 h-12" viewBox="0 0 24 24">
-							<circle cx="12" cy="5" r="3"></circle>
-							<path d="M12 22V8M5 12H2a10 10 0 0020 0h-3"></path>
-						</svg>
-					</div>
-					<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-						<h2 class="font-medium title-font text-gray-900 mb-1 text-xl">The 400 Blows</h2>
-						<p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
-					</div>
-				</div>
-			</div>
-			<div class="flex relative pb-10 sm:items-center md:w-2/3 mx-auto">
-				<div class="h-full w-6 absolute inset-0 flex items-center justify-center">
-					<div class="h-full w-1 bg-gray-200 pointer-events-none"></div>
-				</div>
-				<div class="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">4</div>
-				<div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
-					<div class="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-						<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-12 h-12" viewBox="0 0 24 24">
-							<path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-							<circle cx="12" cy="7" r="4"></circle>
-						</svg>
-					</div>
-					<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-						<h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Neptune</h2>
-						<p class="leading-relaxed">VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk bespoke try-hard cliche palo santo offal.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
 
 	<section class="text-gray-600 body-font">
 		<div class="container mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
@@ -182,38 +109,7 @@ import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
 
 	<!-- Gallery Section -->
 
-	<section class="text-gray-600 body-font">
-		<div class="container px-5 py-24 mx-auto flex flex-wrap">
-			<div class="flex w-full mb-20 flex-wrap">
-				<h1 class="sm:text-3xl text-2xl font-medium title-font text-gray-900 lg:w-1/3 lg:mb-0 mb-4">Master Cleanse Reliac Heirloom</h1>
-				<p class="lg:pl-6 lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
-			</div>
-			<div class="flex flex-wrap md:-m-2 -m-1">
-				<div class="flex flex-wrap w-1/2">
-					<div class="md:p-2 p-1 w-1/2">
-						<img alt="gallery" class="w-full object-cover h-full object-center block" src="https://gatewayusa.com/images/lifestyle/home-laptop-lifestyle-1.jpg">
-					</div>
-					<div class="md:p-2 p-1 w-1/2">
-						<img alt="gallery" class="w-full object-cover h-full object-center block" src="https://dummyimage.com/501x301">
-					</div>
-					<div class="md:p-2 p-1 w-full">
-						<img alt="gallery" class="w-full h-full object-cover object-center block" src="https://gatewayusa.com/images/lifestyle/Bridston%20Family_Gateway_2914.jpg">
-					</div>
-				</div>
-				<div class="flex flex-wrap w-1/2">
-					<div class="md:p-2 p-1 w-full">
-						<img alt="gallery" class="w-full h-full object-cover object-center block" src="https://gatewayusa.com/images/lifestyle/Deirdra%20Wilson_Gateway_1945.jpg">
-					</div>
-					<div class="md:p-2 p-1 w-1/2">
-						<img alt="gallery" class="w-full object-cover h-full object-center block" src="https://dummyimage.com/502x302">
-					</div>
-					<div class="md:p-2 p-1 w-1/2">
-						<img alt="gallery" class="w-full object-cover h-full object-center block" src="https://gatewayusa.com/images/lifestyle/Junie%20Hoang_Gateway_0253.jpg">
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	<LifestyleGallery />
 
 	<!-- Bottom Text Container -->
 
