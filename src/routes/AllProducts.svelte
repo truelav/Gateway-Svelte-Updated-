@@ -5,15 +5,23 @@
   export const allProducts = dataProducts
 
   let filteredProducts = [...dataProducts]
+  const checkedHash = {
+    "all": true,
+    "gaming": false,
+    "twoinone": false,
+    "ultraslim": false,
+    "convertible": false
+  }
   console.log(filteredProducts)
 
   const handleFilter = (event) => {
-    console.log(event)
-    if(event === ''){
-      filteredProducts = dataProducts
-    } else {
-      filteredProducts = filteredProducts.filter((item) => item.category === event)
-    }
+    checkedHash[event] = !checkedHash[event]
+    console.log(checkedHash[event])
+
+    // filteredProducts = filteredProducts.filter((item) => {
+    //   return checkedHash[item.category]
+    // })
+
   }
 
 </script>
@@ -23,20 +31,26 @@
 
     <div class="container px-5 py-24 mx-auto">
 
-      <div class="">
+      <div class="mb-6">
         <div class="block">
           <span class="text-gray-700">Checkboxes</span>
           <div class="mt-2">
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="2-in-one" on:input="{() => handleFilter("")}" >
+                <input type="checkbox" class="form-checkbox" value="all" bind:checked="{checkedHash.all}" on:input="{() => handleFilter("all")}" >
                 <span class="ml-2">All Series</span>
               </label>
             </div>
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="2-in-one" on:input="{() => handleFilter("2-in-one")}" >
+                <input type="checkbox" class="form-checkbox" value="twoinone" bind:checked="{checkedHash.twoinone}" on:input="{() => handleFilter("twoinone")}" >
                 <span class="ml-2">2 In One</span>
+              </label>
+            </div>
+            <div>
+              <label class="inline-flex items-center">
+                <input type="checkbox" class="form-checkbox" value="ultra-slim" bind:checked="{checkedHash.convertible}"  on:input="{() => handleFilter("convertible")}">
+                <span class="ml-2">Convertible</span>
               </label>
             </div>
             <div>
