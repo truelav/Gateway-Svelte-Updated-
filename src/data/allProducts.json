@@ -16,6 +16,8 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/Gateway-17-3-FHD-Creator-Notebook-120Hz-Intel-Core-i7-11800H-NVIDIA-GeForce-RTX-3050Ti-1TB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/877804695",
       "category": "gaming",
+      "featured": "yes",
+      "screen": "17.3",
       "colors": ["black"],
       "dimensions": {
         "length": "15.58",
@@ -73,6 +75,8 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/Gateway-15-6-FHD-Creator-Notebook-120Hz-Intel-Core-i5-11400H-NVIDIA-GeForce-RTX-3050-512GB-SSD-16GB-Memory-THX-Spatial-Audio-1MP-IR-Camera-HDMI-Windo/199570916",
       "category": "gaming",
+      "featured": "yes",
+      "screen": "15.6",
       "colors": ["black"],
       "dimensions": {
         "length": "14.2",
@@ -111,8 +115,6 @@
     },
 
 
-
-
     {
       "id": "GWCC71416",
       "header": "14.1” 2-in-1 Elite Notebook",
@@ -129,6 +131,8 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "convertible",
+      "featured": "yes",
+      "screen": "14.1",
       "colors": ["gray", "blue"],
       "dimensions": {
         "length": "12.78",
@@ -185,6 +189,7 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "convertible",
+      "screen": "14.1",
       "colors": ["gray", "blue"],
       "dimensions": {
         "length": "12.78",
@@ -242,6 +247,7 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["gray", "blue"],
       "dimensions": {
         "length": "14.76",
@@ -299,6 +305,7 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["gray", "blue", "red", "green"],
       "dimensions": {
         "length": "13.1",
@@ -355,6 +362,7 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["gray", "blue", "red", "green"],
       "dimensions": {
         "length": "13.1",
@@ -413,6 +421,7 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["gray", "blue", "red", "green"],
       "dimensions": {
         "length": "13.1",
@@ -474,6 +483,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "11.6",
       "colors": ["black", "blue", "purple", "green"],
       "dimensions": {
         "length": "11.1",
@@ -536,6 +546,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "11.6",
       "colors": ["charcoal"],
       "dimensions": {
         "length": "12.25",
@@ -597,6 +608,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "11.6",
       "colors": ["charcoal", "green", "blue", "red"],
       "dimensions": {
         "length": "11.1",
@@ -657,6 +669,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "13.3",
       "colors": ["charcoal", "green", "blue", "red"],
       "dimensions": {
         "length": "12.1",
@@ -716,6 +729,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "13.1",
@@ -776,6 +790,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "rose gold", "silver"],
       "dimensions": {
         "length": "13.1",
@@ -837,6 +852,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "14.8",
@@ -899,6 +915,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black", "green", "blue", "rose gold", "silver"],
       "dimensions": {
         "length": "14.8",
@@ -960,6 +977,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black", "green", "blue", "rose gold", "silver"],
       "dimensions": {
         "length": "14.8",
@@ -1019,6 +1037,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "11.6",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "11.1",
@@ -1078,6 +1097,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "11.6",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "11.1",
@@ -1137,6 +1157,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "13.1",
@@ -1197,6 +1218,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "13.1",
@@ -1257,6 +1279,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "13.1",
@@ -1317,6 +1340,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "purple"],
       "dimensions": {
         "length": "13.1",
@@ -1377,6 +1401,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "rose gold"],
       "dimensions": {
         "length": "13.1",
@@ -1437,6 +1462,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "14.1",
       "colors": ["black", "green", "blue", "rose gold"],
       "dimensions": {
         "length": "13.1",
@@ -1498,6 +1524,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black", "green", "blue", "pink"],
       "dimensions": {
         "length": "14.8",
@@ -1557,6 +1584,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black"],
       "dimensions": {
         "length": "14.8",
@@ -1616,6 +1644,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black"],
       "dimensions": {
         "length": "14.8",
@@ -1677,6 +1706,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black", "blue", "green", "purple"],
       "dimensions": {
         "length": "14.8",
@@ -1738,6 +1768,7 @@
       },
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
+      "screen": "15.6",
       "colors": ["black", "blue", "green", "purple"],
       "dimensions": {
         "length": "14.8",
@@ -1775,8 +1806,6 @@
       }
     },
 
-
-
     {
       "id": "GWAT10-1",
       "header": "10.1” Gateway Tablet",
@@ -1792,7 +1821,8 @@
         "Android 10 Go"
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
-      "category": "tablets"
+      "category": "tablets",
+      "screen": "10"
     },
 
 

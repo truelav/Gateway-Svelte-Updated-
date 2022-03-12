@@ -2,8 +2,9 @@
 
 import seriesImageSrc1 from '../assets/Images/Home/product1.jpg'
 import seriesImageSrc2 from '../assets/Images/Home/product2.jpg'
-
 import LifestyleGallery from '../components/LifestyleGallery.svelte'
+
+import FeaturesSeries from '../components/FeaturesSeries.svelte'
 
 </script>
 
@@ -106,6 +107,9 @@ import LifestyleGallery from '../components/LifestyleGallery.svelte'
 			</div>
 		</div>
 	</section>
+
+  <!-- Features Sections -->
+	<FeaturesSeries />
 
 	<!-- Gallery Section -->
 

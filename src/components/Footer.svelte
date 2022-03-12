@@ -1,8 +1,13 @@
 <script>
   import logo from '../assets/Images/logo.png'
+  import dimensionsTopImage from '/images/Lifestyle/dimensions-top-image.jpg'
+
 </script>
 
 <footer class="text-gray-600 body-font" id="footer-container">
+  <div class="product-specs-border-image-container">
+    <img src={dimensionsTopImage} class="footer-top-image" alt="footer gateway wave" >
+  </div>
   <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
     <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
       <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900" href="/">
@@ -64,7 +69,7 @@
       </div>
     </div>
   </div>
-  <div class="bg-gray-100">
+  <div class="text-aling-center">
     <div class="container mx-auto py-4 px-5 flex flex-wrap flex-col sm:flex-row">
       <p class="text-gray-500 text-sm text-center sm:text-left">© 2022 Gateway All rights reserved —
         <a href="https://twitter.com/knyttneve" rel="noopener noreferrer" class="text-gray-600 ml-1" target="_blank">Gateway and the Gateway logo are the registered trademarks of Acer Inc. and are used under license from Acer America Corporation.</a>

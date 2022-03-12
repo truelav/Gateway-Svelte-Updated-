@@ -6,6 +6,7 @@
 	import About from './routes/About.svelte'
 	import Contact from './routes/Contact.svelte'
 	import Support from "./routes/Support.svelte"
+	import Recycle from "./routes/Recycle.svelte"
 	import Windows11 from "./routes/Windows11.svelte"
 
   import Header from './components/Header.svelte'
@@ -22,6 +23,7 @@
 	router('/About', () => (page = About))
 	router('/Contact', () => (page = Contact))
 	router('/Support', () => (page = Support))
+	router('/Recycle', () => (page = Recycle))
 	router('/Windows11', () => (page = Windows11))
 	router('/Product/:id',
 		(ctx, next) => {
