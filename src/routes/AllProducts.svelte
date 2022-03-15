@@ -20,24 +20,34 @@
     "gaming": false,
     "ultraslim": false,
     "convertible": false,
-    "tablets": false
+    "tablets": false,
+    "17.3": false,
+    "15.6": false,
+    "13.3": false,
+    "14.1": false,
+    "11.6": false,
+    "10.0": false
   }
 
   const handleFilterByScreen = (event) => {
-    checkedHash[event] = !checkedHash[event]
+    screenSizes[event] = !screenSizes[event]
     let showAllProducts = true;
 
+    console.log(event)
+
     filteredProducts = dataProducts.filter((item) => {
-      return checkedHash[item.category]
+      return screenSizes[item.screen]
     })
 
-    for(let key in checkedHash){
-      showAllProducts = showAllProducts && !checkedHash[key]
+    for(let key in screenSizes){
+      showAllProducts = showAllProducts && !screenSizes[key]
     }
 
     console.log(showAllProducts)
     if(showAllProducts) filteredProducts = [...dataProducts]
   }
+
+
 
   const handleFilter = (event) => {
     checkedHash[event] = !checkedHash[event]
@@ -93,25 +103,25 @@
           <div class="mt-2 lg:w-1/3 md:w-1/2 sm:w-1/2 p-4">
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="ultra-slim" bind:checked="{checkedHash.convertible}"  on:input="{() => handleFilter("convertible")}">
+                <input type="checkbox" class="form-checkbox" value="ultra-slim"  on:input="{() => handleFilterByScreen("17.3")}">
                 <span class="ml-2">17.3"</span>
               </label>
             </div>
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="ultra-slim" on:input="{() => handleFilter("ultra-slim")}">
+                <input type="checkbox" class="form-checkbox" value="ultra-slim" on:input="{() => handleFilterByScreen("15.6")}">
                 <span class="ml-2">15.6"</span>
               </label>
             </div>
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="gaming" on:input="{() => handleFilter("gaming")}">
+                <input type="checkbox" class="form-checkbox" value="gaming" on:input="{() => handleFilterByScreen("14.1")}">
                 <span class="ml-2">14.1"</span>
               </label>
             </div>
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="tablets" on:input="{() => handleFilter("tablets")}" >
+                <input type="checkbox" class="form-checkbox" value="tablets" on:input="{() => handleFilterByScreen("13.3")}" >
                 <span class="ml-2">13.3"</span>
               </label>
             </div>
@@ -120,19 +130,19 @@
           <div class="mt-2 lg:w-1/3 md:w-1/2 sm:w-1/2 p-4">
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="ultra-slim" bind:checked="{checkedHash.convertible}"  on:input="{() => handleFilter("convertible")}">
+                <input type="checkbox" class="form-checkbox" value="ultra-slim" on:input="{() => handleFilterByScreen("11.6")}">
                 <span class="ml-2">11.6"</span>
               </label>
             </div>
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="gaming" on:input="{() => handleFilter("gaming")}">
+                <input type="checkbox" class="form-checkbox" value="gaming" on:input="{() => handleFilterByScreen("10.0")}">
                 <span class="ml-2">10.0"</span>
               </label>
             </div>
             <div>
               <label class="inline-flex items-center">
-                <input type="checkbox" class="form-checkbox" value="tablets" on:input="{() => handleFilter("tablets")}" >
+                <input type="checkbox" class="form-checkbox" value="tablets" on:input="{() => handleFilterByScreen("8.0")}" >
                 <span class="ml-2">8.0"</span>
               </label>
             </div>
@@ -153,6 +163,8 @@
     </div>
   </div>
 </section>
+
+<!-- <div class="scroll-smooth"></div> -->
 
 <style>
 
