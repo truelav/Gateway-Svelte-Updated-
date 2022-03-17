@@ -62,4 +62,8 @@
   .product-specs-sections {
     background-color: #e0e7ff;
   }
+
+  .footer-top-image {
+    width: 100vw;
+  }
 </style>

@@ -1809,6 +1809,7 @@
     {
       "id": "GWAT10-1",
       "header": "10.1” Gateway Tablet",
+      "screen": "10.1",
       "description": "", 
       "image": "images/AllProducts/GWAT10-1.png" ,
       "bulletPoints": [
@@ -1821,8 +1822,7 @@
         "Android 10 Go"
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
-      "category": "tablets",
-      "screen": "10"
+      "category": "tablets"
     },
 
 
@@ -1830,6 +1830,7 @@
     {
       "id": "GWAT8-1",
       "header": "8.0” Gateway Tablet",
+      "screen": "8.0",
       "description": "", 
       "image": "images/AllProducts/GWAT8-1.png" ,
       "bulletPoints": [

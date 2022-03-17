@@ -3,6 +3,7 @@
 
   import {dataProducts} from '../data/allProducts.json'
 
+  import PageTransition from '../components/PageTransition.svelte'
   import ProductTopHero from '../components/ProductTopHero.svelte'
   import ProductDimensions from '../components/ProductDimensions.svelte'
   import ProductLifestyle from '../components/ProductLifestyle.svelte'
@@ -18,25 +19,28 @@
 </script>
 
 
-<!-- Top Hero Section -->
-<ProductTopHero {productData}/>
-
-<!-- Dimensions Sections -->
-<ProductDimensions {productData}/>
-
-<div class="backgroundSpots">
-
-  <ProductLifestyle {productData}/>
+<PageTransition>
+  <!-- Top Hero Section -->
+  <ProductTopHero {productData}/>
   
-  <ProductSpecs {productData}/>
+  <!-- Dimensions Sections -->
+  <ProductDimensions {productData}/>
   
-  <ProductPorts {productData} />
+  <div class="backgroundSpots">
   
-  <LifestyleGallery />
+    <ProductLifestyle {productData}/>
+    
+    <ProductSpecs {productData}/>
+    
+    <ProductPorts {productData} />
+    
+    <LifestyleGallery />
+  
+    <!-- <ProductRatings /> -->
+  
+  </div>
+</PageTransition>
 
-  <!-- <ProductRatings /> -->
-
-</div>
 
 <style>
 

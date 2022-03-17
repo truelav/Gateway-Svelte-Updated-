@@ -1,8 +1,6 @@
 <script>
 
-  import {dataProducts} from '../data/allProducts.json'
-  import ProductTablet from '../components/ProductTablet.svelte';
-  export let allProducts = dataProducts.filter((item) => item.featured === "yes")
+  import FeaturedProducts from '../components/FeaturedProducts.svelte'
   import headerImgLg from '/images/Windows11/header_xl.jpg'
   import headerImgSm from '/images/Windows11/header_sm.jpg'
   import pillar_blade_1 from '/images/Windows11/pillar_blade_1.jpg'
@@ -12,7 +10,6 @@
   import pillar_blade_5 from '/images/Windows11/pillar_blade_5.jpg'
   import pillar_blade_6 from '/images/Windows11/blade_6.jpg'
   import m365_icons from '/images/Windows11/m365_icons.png'
-
 
 </script>
 
@@ -25,16 +22,7 @@
 
 <div class="backgroundSpots">
 
-  <section class="text-gray-600 body-font">
-    <div class="container px-5 py-24 mx-auto">
-      <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
-        {#each allProducts as item}
-          <ProductTablet {item}/>
-        {/each}
-      </div>
-    </div>
-  </section>
-  
+  <FeaturedProducts />
   
   <section >
     <div class="container flex m-auto">

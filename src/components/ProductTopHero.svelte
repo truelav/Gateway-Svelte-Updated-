@@ -9,25 +9,43 @@
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-24 mx-auto flex flex-wrap">
     <div class="lg:w-1/2 w-full mb-10 lg:mb-0 rounded-lg overflow-hidden">
-      <img alt={productData.productPage.imageTopSource.alt} class="object-contain object-center h-full w-full" src={productData.productPage.imageTopSource.src}>
+      <img alt={productData.productPage.imageTopSource.alt} class="object-contain object-center h-full w-full" src={productData.productPage.imageTopSource.src}
+      data-aos="zoom-in"
+      data-aos-duration="800"
+      data-aos-easing="ease-in-out"
+      data-aos-once="false">
     </div>
 
     <div class="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
       <div class="flex flex-col mb-10 lg:items-start items-center">
         <div class="flex-grow">
-          <h2 class="text-gray-900 text-4xl title-font font-medium mb-3">{productData.header}</h2>
-          <p class="leading-relaxed text-base italic">Model: {productData.id}</p>
-          <ProductRatingSummary />  
-          <p class="leading-relaxed text-base my-5">{productData.description}</p>
-          <div class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">
-            <div class="flex">
-              <span class="mr-3">Available Colors:</span>
-              <button class="border-2 border-gray-300 rounded-full w-6 h-6 focus:outline-none"></button>
-              <button class="border-2 border-gray-300 ml-1 bg-gray-700 rounded-full w-6 h-6 focus:outline-none"></button>
-              <button class="border-2 border-gray-300 ml-1 bg-indigo-500 rounded-full w-6 h-6 focus:outline-none"></button>
+          <div             
+          data-aos="fade-left"
+          data-aos-delay="500"
+          data-aos-duration="500"
+          data-aos-easing="ease-in-out"
+          data-aos-once="false">
+            <h2 class="text-gray-900 text-4xl title-font font-medium mb-3">{productData.header}</h2>
+            <p class="leading-relaxed text-base italic">Model: {productData.id}
+            </p>
+            <ProductRatingSummary />  
+            <p class="leading-relaxed text-base my-5">{productData.description}
+            </p>
+            <div class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">
+              <div class="flex">
+                <span class="mr-3">Available Colors:</span>
+                <button class="border-2 border-gray-300 rounded-full w-6 h-6 focus:outline-none"></button>
+                <button class="border-2 border-gray-300 ml-1 bg-gray-700 rounded-full w-6 h-6 focus:outline-none"></button>
+                <button class="border-2 border-gray-300 ml-1 bg-indigo-500 rounded-full w-6 h-6 focus:outline-none"></button>
+              </div>
             </div>
           </div>
-          <ul class="my-5">
+          <ul class="my-5"
+          data-aos="fade-left"
+          data-aos-delay="1000"
+          data-aos-duration="500"
+          data-aos-easing="ease-in-out"
+          data-aos-once="false">
             {#each productData.bulletPoints as bullet}
               <li class="list-disc mx-5 italic md:text-left">{bullet}</li>
             {/each}
