@@ -305,8 +305,7 @@
       ],
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
-      "screen": "14.1",
-      "colors": ["gray", "blue", "red", "green"],
+      "colors": ["gray", "blue", "green", "red"],
       "dimensions": {
         "length": "13.1",
         "height": "8.75",
@@ -363,7 +362,7 @@
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
       "screen": "15.6",
-      "colors": ["gray", "blue", "red", "green"],
+      "colors": ["gray", "blue"],
       "dimensions": {
         "length": "13.1",
         "height": "8.75",
@@ -547,7 +546,7 @@
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
       "screen": "11.6",
-      "colors": ["charcoal"],
+      "colors": ["Gray"],
       "dimensions": {
         "length": "12.25",
         "height": "8.75",
@@ -609,7 +608,7 @@
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
       "screen": "11.6",
-      "colors": ["charcoal", "green", "blue", "red"],
+      "colors": ["gray", "green", "blue", "red"],
       "dimensions": {
         "length": "11.1",
         "height": "7.5",
@@ -670,7 +669,7 @@
       "buyNowLink": "https://www.walmart.com/ip/864958816",
       "category": "ultra-slim",
       "screen": "13.3",
-      "colors": ["charcoal", "green", "blue", "red"],
+      "colors": ["gray", "blue"],
       "dimensions": {
         "length": "12.1",
         "height": "8.24",

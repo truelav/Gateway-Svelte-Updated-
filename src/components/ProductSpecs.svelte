@@ -6,7 +6,12 @@
 <section class="text-gray-600 body-font">
   <div class="container px-5 py-12 mx-auto flex flex-wrap">
     <div class="flex flex-wrap w-full">
-      <div class="lg:w-2/5 md:w-1/2 md:pr-10 md:py-6">
+      <div class="lg:w-2/5 md:w-1/2 md:pr-10 md:py-6"
+      data-aos="fade-right"
+      data-aos-delay="1000"
+      data-aos-duration="500"
+      data-aos-easing="ease-in-out"
+      data-aos-once="false">
         <div class="flex relative pb-6">
           <div class="h-full w-10 absolute inset-0 flex items-center justify-center">
             <div class="h-full w-1 bg-gray-200 pointer-events-none"></div>

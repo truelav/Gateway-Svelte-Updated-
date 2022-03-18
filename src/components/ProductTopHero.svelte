@@ -28,18 +28,41 @@
             <h2 class="text-gray-900 text-4xl title-font font-medium mb-3">{productData.header}</h2>
             <p class="leading-relaxed text-base italic">Model: {productData.id}
             </p>
-            <ProductRatingSummary />  
+
+            <ProductRatingSummary />
+
             <p class="leading-relaxed text-base my-5">{productData.description}
             </p>
             <div class="flex mt-6 items-center pb-5 border-b-2 border-gray-100 mb-5">
               <div class="flex">
                 <span class="mr-3">Available Colors:</span>
-                <button class="border-2 border-gray-300 rounded-full w-6 h-6 focus:outline-none"></button>
-                <button class="border-2 border-gray-300 ml-1 bg-gray-700 rounded-full w-6 h-6 focus:outline-none"></button>
-                <button class="border-2 border-gray-300 ml-1 bg-indigo-500 rounded-full w-6 h-6 focus:outline-none"></button>
+                {#each productData.colors as color}
+                <div class="px-2">
+                  <button class="border-2 border-gray-300 ml-1 rounded-full w-8 h-8 focus:outline-none btn-background-color-{color}"></button>
+                  <p class="leading-relaxed text-s mt-2 mb-2 capitalize text-center">{color}</p>
+                </div>
+                {/each}
               </div>
             </div>
           </div>
+          
+          {#if productData.windowsActivation}
+            <div class=" divide-y-2 divide-gray-100">
+              <div class=" flex-wrap md:flex-nowrap">
+                <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
+                  <img class="m-auto" src={windowsIcon} alt="Free Upgrade when available windows 11">
+                </div>
+                <div class="md:flex-grow">
+                  <p class="leading-relaxed text-xs mt-2 mb-2">{productData.windowsActivation.p1}</p>
+                  <p class="leading-relaxed text-xs mb-2">{productData.windowsActivation.p2}</p>
+                  <p class="leading-relaxed text-xs italic text-indigo-600">
+                    (see <a href={productData.windowsActivation.p1}>aka.md/windows11-spec</a> )
+                  </p>
+                </div>
+              </div>
+            </div>
+          {/if}
+
           <ul class="my-5"
           data-aos="fade-left"
           data-aos-delay="1000"
@@ -60,30 +83,8 @@
         </div>
       </div>
     </div>
-    
-    <div class="my-8 divide-y-2 divide-gray-100">
-      <div class="py-8 flex flex-wrap md:flex-nowrap">
-        <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
-          <img class="m-auto" src={windowsIcon} alt="Free Upgrade when available windows 11">
-        </div>
-        <div class="md:flex-grow ml-8">
-          {#if productData.windowsActivation}
-          <p class="leading-relaxed text-xs mt-2 mb-2">{productData.windowsActivation.p1}</p>
-          <p class="leading-relaxed text-xs mb-2">{productData.windowsActivation.p2}</p>
-          <p class="leading-relaxed text-xs italic text-indigo-600">
-            (see <a href={productData.windowsActivation.p1}>aka.md/windows11-spec</a> )
-          </p>
-          {/if}
-        </div>
-      </div>
-    </div>
-    
   </div>
 </section>
-
-
-
-
 
 
 
@@ -91,4 +92,30 @@
   .exclusive-at-walmart {
     color: #0971ce;
   }
+
+  .btn-background-color-black {
+    background-color: #111111;
+  }
+
+  .btn-background-color-gray {
+    background-color: #696f6d;
+  }
+
+  .btn-background-color-blue {
+    background-color: #58a2df;
+  }
+
+  .btn-background-color-green {
+    background-color: #5b736e;
+  }
+
+  .btn-background-color-red {
+    background-color: #b9353b;
+  }
+
+  .btn-background-color-purple {
+    background-color: #5135e2;
+  }
+
+
 </style>
