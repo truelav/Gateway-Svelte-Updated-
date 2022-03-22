@@ -11,8 +11,6 @@
   import ProductSpecs from '../components/ProductSpecs.svelte'
   import ProductPorts from '../components/ProductPorts.svelte'
 
-  import ProductRatings from '../components/ProductRatings.svelte';
-
   export let params;
 
   const productData = dataProducts.filter((item) => item.id == params.id)[0]

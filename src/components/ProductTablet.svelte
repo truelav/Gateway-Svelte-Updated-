@@ -24,7 +24,11 @@
     </ul>
   
     <div class="flex justify-space">
-      <button class="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-md m-1 mt-4">Buy Now</button>
+      <button class="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-md m-1 mt-4" >
+        <a href="{item.buyNowLink}" target="__blank">
+          Buy Now
+        </a>
+      </button>
       
       <a href={`/Product/${item.id}`}>
         <button class="text-white bg-slate-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-md m-1 mt-4">

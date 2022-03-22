@@ -74,7 +74,11 @@
             {/each}
           </ul>
           <div class="flex column justify-between">
-            <button class="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Buy Now</button>
+            <button class="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+              <a href="{productData.buyNowLink}" target="__blank">
+                Buy Now
+              </a>
+            </button>
             <div class="ml-6 lg:center items-center">
               <p class="leading-relaxed text-sm w-1/2 exclusive-at-walmart">Available exclusively at:</p>
               <img class="w-1/3" src={walmartIcon} alt="Exclusive At Walmart">

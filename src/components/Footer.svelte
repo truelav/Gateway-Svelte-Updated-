@@ -40,13 +40,13 @@
             <a class="text-gray-600 hover:text-gray-800" href="/recycle">Recycle</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800" href="/">Second Link</a>
+            <a class="text-gray-600 hover:text-gray-800" href="/windows11">Windows 11</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800" href="/">Third Link</a>
+            <a class="text-gray-600 hover:text-gray-800" href="/https://www.walmart.com/cp/8460364">Gateway Walmart</a>
           </li>
           <li>
-            <a class="text-gray-600 hover:text-gray-800" href="/">Fourth Link</a>
+            <a class="text-gray-600 hover:text-gray-800" href="/allProducts">Gateway Series</a>
           </li>
         </nav>
       </div>
