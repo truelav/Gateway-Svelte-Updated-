@@ -2,6 +2,7 @@
   "dataProducts": [
     {
       "id": "GGNC-71719",
+      "bazaarId": "GGNC71719",
       "header": "17.3” FHD Gaming Notebook",
       "description": "The 17.3” FHD Gaming Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i7-11800H Processor and has 16 GB memory RAM.", 
       "image": "images/AllProducts/GGNC71719.png" ,
@@ -61,6 +62,7 @@
 
     {
       "id": "GGNC-51518",
+      "bazaarId": "GGNC51518",
       "header": "15.6” FHD Gaming Notebook",
       "description": "The 15.6” FHD Gaming Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i5-11400H Processor and has 16 GB memory RAM.", 
       "image": "images/AllProducts/GGNC51518.png" ,
@@ -117,6 +119,7 @@
 
     {
       "id": "GWCC71416",
+      "bazaarId": "GWCC71416",
       "header": "14.1” 2-in-1 Elite Notebook",
       "description": "The 14.1” FHD 2-in-1 Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i7-1165G7 Processor and has 8 GB memory RAM. With a sleek and metallic design.", 
       "image": "images/AllProducts/GWCC51416.png" ,
@@ -175,6 +178,7 @@
 
     {
       "id": "GWCC51416",
+      "bazaarId": "GWCC51416",
       "header": "14.1” 2-in-1 Elite Notebook",
       "description": "The 14.1” FHD 2-in-1 Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. You'll be immersed in sound where your movies, TV shows, video games and music happen all around you, not just in front of you. The computer is powered by 11th Gen Intel® Core™ i7-1165G7 Processor and has 8 GB memory RAM. With a sleek and metallic design.", 
       "image": "images/AllProducts/GWCC51416.png" ,
@@ -232,6 +236,7 @@
 
     {
       "id": "GWNC31514",
+      "bazaarId": "GWNC31514",
       "header": "15.6” Ultra Slim Notebook",
       "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks and includes a carrying case and wireless mouse! With a sleek design, this computer also features a 128 GB Solid State Drive.", 
       "image": "images/AllProducts/GWNC31514.png" ,
@@ -290,6 +295,7 @@
 
     {
       "id": "GWNR51416",
+      "bazaarId": "GWNR51416",
       "header": "14.1” Ultra Slim Notebook",
       "description": "The 14.1” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. It is the ideal way to get the best audio for on-the-go entertainment. The computer is powered by AMD Ryzen™ 5 3500U Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 256 GB Solid State Drive.", 
       "image": "images/AllProducts/GWNR51416.png" ,
@@ -346,6 +352,7 @@
 
     {
       "id": "GWNR71517",
+      "bazaarId": "GWNR71517",
       "header": "15.6” Ultra Slim Notebook",
       "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. It is the ideal way to get the best audio for on-the-go entertainment. The computer is powered by AMD Ryzen™ 7 3700U Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 512 GB Solid State Drive.", 
       "image": "images/AllProducts/GWNR71517.png" ,
@@ -405,6 +412,7 @@
 
     {
       "id": "GWTN156-12",
+      "bazaarId": "GWTN156-12",
       "header": "15.6” Ultra Slim Notebook",
       "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. It is the ideal way to get the best audio for on-the-go entertainment. The computer is powered by AMD Ryzen™ 7 3700U Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 512 GB Solid State Drive.", 
       "image": "images/AllProducts/GWTN15612.png" ,
@@ -463,6 +471,7 @@
 
     {
       "id": "GWTC116-2",
+      "bazaarId": "GWTC116-2",
       "header": "11.6” 2-in-1 Convertible Notebook",
       "description": "The 11.6” Convertible Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by an Intel® Celeron® Processor and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 11.6” LCD IPS Touchscreen Display and precision touchpad. The convertible notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done.", 
       "image": "images/AllProducts/GWTC1162.png" ,
@@ -526,6 +535,7 @@
 
     {
       "id": "GWTC116-3",
+      "bazaarId": "GWTC116-3",
       "header": "11.6” 2-in-1 Convertible Notebook",
       "description": "The 11.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. Rugged and durable in design to keep up with your lifestyle. The computer is powered by a Qualcomm® Snapdragon™ 7c and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 11.6” LCD IPS Display and precision touchpad. The convertible notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done.", 
       "image": "images/AllProducts/GWTC1163.png" ,
@@ -588,6 +598,7 @@
 
     {
       "id": "GWTN116-3",
+      "bazaarId": "GWTN116-3",
       "header": "11.6” Ultra Slim Notebook",
       "description": "The 11.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. Slim and lightweight in design to keep up with your lifestyle. The computer is powered by an Intel® Celeron® Processor and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 11.6” LCD IPS Display and precision touchpad. The convertible notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done.", 
       "image": "images/AllProducts/GWTN1163.png" ,
@@ -649,6 +660,7 @@
 
     {
       "id": "GWTN133-1",
+      "bazaarId": "GWTN133-1",
       "header": "13.3” Ultra Slim Notebook",
       "description": "The 13.3” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by a Qualcomm® Snapdragon™ 850 Mobile Compute Platform and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 13.3” LCD IPS FHD Display that is full lamination with precision touchpad. The notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done.", 
       "image": "images/AllProducts/GWTN1331.png" ,
@@ -709,6 +721,7 @@
 
     {
       "id": "GWTN141-6",
+      "bazaarId": "GWTN141-6",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by a 11th Gen Intel® Core™ i3-1115G4 Processor and has 4 GB memory RAM. You’re guaranteed to experience clarity with a 14.1” LCD IPS Display and precision touchpad. The convertible notebook is equipped with Windows 10 Home and a Microsoft 365 Personal 1-year Subscription to make sure you get exactly what you need to get all of your tasks done, oh and not to mention the built-in fingerprint scanner.", 
       "image": "images/AllProducts/GWTN1416.png" ,
@@ -770,6 +783,7 @@
 
     {
       "id": "GWTN141-10",
+      "bazaarId": "GWTN141-10",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by 11th Gen Intel® Core™ i5-1135G7 Processor and has a 512 GB Solid State Drive. With a sleek and metallic design, this computer also features an Intel® Iris® Xe Graphics. You’re guaranteed to experience clarity with a 14.1” LCD IPS Display that is full lamination, and precision touchpad.", 
       "image": "images/AllProducts/GWTN14110.png" ,
@@ -831,6 +845,7 @@
 
     {
       "id": "GWTN156-7",
+      "bazaarId": "GWTN156-7",
       "header": "15.6” Ultra Slim Notebook",
       "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by 11th Gen Intel® Core™ i3-1115G4 Processor and has 8 GB memory RAM. With a sleek and metallic design, this computer also features a 256 GB Solid State Drive. You’re guaranteed to experience clarity with a 15.6” LCD IPS Display and precision touchpad.", 
       "image": "images/AllProducts/GWTN1567.png" ,
@@ -894,6 +909,7 @@
 
     {
       "id": "GWTN156-9",
+      "bazaarId": "GWTN156-9",
       "header": "15.6” Ultra Slim Notebook",
       "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by 11th Gen Intel® Core™ i5-1135G7 Processor and has a 512 GB Solid State Drive. With a sleek and metallic design, this computer also features an Intel® Iris® Xe Graphics. You’re guaranteed to experience clarity with a 15.6” LCD IPS Display that is full lamination, and precision touchpad.", 
       "image": "images/AllProducts/GWTN1569.png" ,
@@ -956,6 +972,7 @@
 
     {
       "id": "GWTN156-11",
+      "bazaarId": "GWTN156-11",
       "header": "15.6” FHD Ultra Slim Notebook",
       "description": "The 15.6” Ultra Slim Notebook from Gateway is the ultimate portable notebook that brings crystal-clear picture for all of your tasks. The computer is powered by Intel® Pentium® Silver N5030 Processor and has 4 GB memory RAM allows you to ease through your daily tasks. With a sleek design, this computer also features 128 GB eMMC Storage. You’re guaranteed to experience clarity with a 15.6” LCD IPS Display and precision touchpad.", 
       "image": "images/AllProducts/GWTN15611.png" ,
@@ -1018,6 +1035,7 @@
 
     {
       "id": "GWTC116-1",
+      "bazaarId": "GWTC116-1",
       "header": "11.6” 2-in-1 Convertible Notebook",
       "description": "The 11.6-inch Gateway convertible notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks.", 
       "image": "images/AllProducts/GWTC116.png" ,
@@ -1078,6 +1096,7 @@
 
     {
       "id": "GWTN116-1",
+      "bazaarId": "GWTN116-1",
       "header": "11.6” FHD Convertible Notebook",
       "description": "The 11.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. With a high-powered AMD A4 processor and Radeon R3 graphics card will allow you can tackle all of your daily tasks and projects with ease and haste—and with a slim and light weight frame you can take it everywhere you go.", 
       "image": "images/AllProducts/GWTN1161.png" ,
@@ -1138,6 +1157,7 @@
 
     {
       "id": "GWTN141-1",
+      "bazaarId": "GWTN141-1",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
       "image": "images/AllProducts/GWTN1411.png" ,
@@ -1198,6 +1218,7 @@
 
     {
       "id": "GWTN141-2",
+      "bazaarId": "GWTN141-2",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
       "image": "images/AllProducts/GWTN1412.png" ,
@@ -1259,6 +1280,7 @@
 
     {
       "id": "GWTN141-2",
+      "bazaarId": "GWTN141-2",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
       "image": "images/AllProducts/GWTN1412.png" ,
@@ -1320,6 +1342,7 @@
 
     {
       "id": "GWTN141-3",
+      "bazaarId": "GWTN141-3",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home.", 
       "image": "images/AllProducts/GWTN1412.png" ,
@@ -1381,6 +1404,7 @@
 
     {
       "id": "GWTN141-4",
+      "bazaarId": "GWTN141-4",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Intel Core i5 processor lets you ease through your daily tasks, paired with the Tuned by THX Audio lets you experience the theater level quality while in the convenience of your home.", 
       "image": "images/AllProducts/GWTN1412.png" ,
@@ -1442,6 +1466,7 @@
 
     {
       "id": "GWTN141-5",
+      "bazaarId": "GWTN141-5",
       "header": "14.1” FHD Ultra Slim Notebook",
       "description": "The 14.1-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Intel Core i5 processor lets you ease through your daily tasks, paired with the Tuned by THX Audio lets you experience the theater level quality while in the convenience of your home.", 
       "image": "images/AllProducts/GWTN1412.png" ,
@@ -1503,6 +1528,7 @@
 
     {
       "id": "GWTN156-1",
+      "bazaarId": "GWTN156-1",
       "header": "15.6” FHD FHD Ultra Slim Notebook",
       "description": "The 15.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. The Intel Core i5 processor lets you ease through your daily tasks, paired with the Tuned by THX Audio lets you experience the theater level quality while in the convenience of your home.", 
       "image": "images/AllProducts/GWTN1561.png" ,
@@ -1565,6 +1591,7 @@
 
     {
       "id": "GWTN156-2",
+      "bazaarId": "GWTN156-2",
       "header": "15.6” FHD Performance Notebook",
       "description": "The Gateway Creator Series 15.6” Performance Notebook is a powerhouse equipped with an AMD Ryzen™ 5 4600H Mobile Processor with Radeon™ Graphics and an NVIDIA GeForce GTX 1650 allowing you to game with ease or breeze through you daily tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home. During gaming, you will feel like you are in the center of the action with the THX Spatial audio software which provides stereo and spatial surround sound through headphones by simulating a 7.1 surround sound.", 
       "image": "images/AllProducts/GWTN1562.png" ,
@@ -1625,6 +1652,7 @@
 
     {
       "id": "GWTN156-3",
+      "bazaarId": "GWTN156-3",
       "header": "15.6” FHD Performance Notebook",
       "description": "The Gateway Creator Series 15.6” Performance Notebook is a powerhouse equipped with 10th Gen Intel i5 and an NVIDIA GeForce RTX 2060 allowing you to game with ease or breeze through you daily tasks. The Tuned by THX display screens provide rich, vibrant colors and better contrast and are paired with the Tuned by THX Audio which lets you experience the theater level quality while in the convenience of your home. During gaming, you will feel like you are in the center of the action with the THX Spatial audio software which provides stereo and spatial surround sound through headphones by simulating a 7.1 surround sound.", 
       "image": "images/AllProducts/GWTN1562.png" ,
@@ -1685,6 +1713,7 @@
 
     {
       "id": "GWTN156-4",
+      "bazaarId": "GWTN156-4",
       "header": "15.6” FHD Ultra Slim Notebook",
       "description": "The 15.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. AMD Ryzen™ Mobile Processors deliver premium performance for productivity, entertainment, gaming, and content creation in thin and light laptops. Tuned by THX™ audio products enable listeners to get the best audio quality possible by providing custom fidelity improvements, balanced reproduction, and optimal frequency response. It is the ideal way to get the best audio for on-the-go entertainment.", 
       "image": "images/AllProducts/GWTN1569.png" ,
@@ -1747,6 +1776,7 @@
 
     {
       "id": "GWTN156-5",
+      "bazaarId": "GWTN156-5",
       "header": "15.6” FHD Ultra Slim Notebook",
       "description": "The 15.6-inch Gateway Ultra Slim Notebook features a 1080p screen that brings a crystal-clear picture for any and all of your tasks. AMD Ryzen™ Mobile Processors deliver premium performance for productivity, entertainment, gaming, and content creation in thin and light laptops. Tuned by THX™ audio products enable listeners to get the best audio quality possible by providing custom fidelity improvements, balanced reproduction, and optimal frequency response. It is the ideal way to get the best audio for on-the-go entertainment.", 
       "image": "images/AllProducts/GWTN1569.png" ,
@@ -1807,6 +1837,7 @@
 
     {
       "id": "GWAT10-1",
+      "bazaarId": "GWAT10-1",
       "header": "10.1” Gateway Tablet",
       "screen": "10.1",
       "description": "", 
@@ -1828,6 +1859,7 @@
 
     {
       "id": "GWAT8-1",
+      "bazaarId": "GWAT8-1",
       "header": "8.0” Gateway Tablet",
       "screen": "8.0",
       "description": "", 

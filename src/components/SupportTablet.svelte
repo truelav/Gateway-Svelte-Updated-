@@ -13,7 +13,7 @@
     <button class="bg-gray-300 text-gray-700 font-semibold py-2 px-4 rounded inline-flex items-center">
       <span class="mr-1">Download User Guide</span>
     </button>
-    <DropDownButton />
+    <DropDownButton {item}/>
   </div>
 </div>
 
